@@ -1674,5 +1674,34 @@
                 ]
             }
         ]
+    },
+
+    {
+        "cmpId": "11",
+        "cmpName": "Pranjal Education Consultancy",
+        "industry": "Education Consultancy",
+        "hQLocation": "Kathmandu",
+        "aboutCmp": "Pranjal Education Consultancy Pvt. Ltd. has been established in 2004 A.D. with the objective of providing educational support to the students of Nepal in various aspects. So, it is known among the people as a center for quality and reliable services. We also provide counseling services about the overseas study program, especially in the countries like USA, UK, Canada, Australia, India, Switzerland, and other countries around the world. The abroad study also encourages students to unify the world. We try to fulfill the aim of the nation and the world so that we help our valued Nepalese students at reputed colleges/universities on their required subjects.",
+        "img": { "logo": "/dist/img/cmp/Pranjal_edu_logo.png", "cover": "" },
+        "links": { "site": "https://www.pranjal.edu.np/", "fb": "PranjalEducation" },
+        "intership": [],
+        "jobOpening": [
+            {
+                "id": "23PEC00",
+                "no" : "1",
+                "tags": ["Full-time"],
+                "position": "Front Desk Officer",
+                "issueDate": "2023-08-24",
+                "jobLocation": "Kathmandu",
+                "apply": "https://www.linkedin.com/jobs/search/?currentJobId=3694147565&f_C=80700117&geoId=92000000&originToLandingJobPostings=3694147565",
+                "jobDescription": [
+                    {
+                        "About the role" : [ "Greet and assist visitors.", "Manage calls and inquiries with professionalism.", "Keep the reception area welcoming and neat.", "Support team with basic administrative tasks." ],
+                        "Requirements": [ "Strong communication skills.", "Positive and professional demeanor.", "Attention to detail and organization.", "Freshers are encourage to apply" ]
+                    }
+                ]
+            }
+        ]
     }
 ]
+
