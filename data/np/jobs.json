@@ -1702,5 +1702,33 @@
                 ]
             }
         ]
+    },
+
+    {
+        "cmpId": "12",
+        "cmpName": "Ace International Business School",
+        "industry": "College",
+        "hQLocation": "Kathmandu",
+        "aboutCmp": "Ace Institute of Management, since its inception in 1999, has been continually striving to raise the standard of management education in Nepal. Many Ace students and alumni have expressed their “Ace experience” as transformative. In our continued effort to enhance the standard of higher education in Nepal, we were exploring collaborative partnership with one of the UK universities. Our exploration culminated in collaboration with Queen Margaret University (QMU) of Edinburgh, UK, through investment in and partnership with Silver Mountain Graduate Business School which already had collaboration with QMU. The Silver Mountain Graduate Business School then was renamed “Ace International Business School”.",
+        "img": { "logo": "/dist/img/cmp/AIBS_logo.jpg", "cover": "" },
+        "links": { "site": "https://ace.edu.np/", "fb": "AceALevel" },
+        "intership": [],
+        "jobOpening": [
+            {
+                "id": "23AIBS00",
+                "no" : "1",
+                "tags": ["Full-time"],
+                "position": "Front Desk Executive",
+                "issueDate": "2023-08-24",
+                "jobLocation": "Kathmandu",
+                "apply": "https://www.linkedin.com/jobs/search/?currentJobId=3694137450&f_C=13249955&geoId=92000000&originToLandingJobPostings=3694137450",
+                "jobDescription": [
+                    {
+                        "Responsibilities" : [ "Greet and welcome guests.", "Maintain records and files.", "Keep the front desk tidy and presentable with all necessary materials (pens, forms, paper, etc.)", "Answer all incoming calls and redirect them or keep messages.", "Redirect phone calls to the appropriate department and takedown messages.", "Answer all client questions and incoming calls.", "Accept all letters and packages, and Ensure proper distribution to the appropriate departments.", "Scheduling and confirming appointments, meetings, and events.", "Welcoming and assisted visitors in a friendly and professional manner.", "Copying, scanning, and filing documents.", "Performing other administrative tasks, if required." ],
+                        "Requirements": [ "Bachelor's Degree with a minimum of 1 year of experience as a Front Desk Representative.", "Fluency in English (Written & Verbal)", "Exceptional ability to create a welcoming environment.", "Excellent interpersonal and communication skills.", "Ability to observe business etiquette and maintain a professional appearance." ]
+                    }
+                ]
+            }
+        ]
     }
 ]
