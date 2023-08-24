@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&display=swap');
+@import url(./h&f_style.css);
+
+:root {
+    --primary-color: #1a78f4;
+    --secondary-color: #2d2d2d;
+    --font-size: 14px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    -webkit-tap-highlight-color: transparent;
+}
+
+a {
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    width: 1400px;
+    margin: 0 24px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+
+button:hover {
+    box-shadow: var(--secondary-color) 4px 6px 0px 0px;
+    transition: 0.4 ease-in-out;
+}
+
+
+@media (min-width: 1px) and (max-width: 1023px) {
+    #app {
+        margin: 0 16px;
+    }
+}
+
+
+button, input, label {
+    user-select: none;
+}
+
+
+img {
+    object-fit: contain;
+}

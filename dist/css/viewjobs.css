@@ -1,0 +1,134 @@
+.header {
+    padding-bottom: 16px;
+    border-bottom: solid 1px;
+}
+
+.job_heading {
+    margin-top: 16px;
+}
+
+.job_title {
+    font-size: 24px;
+    line-height: 1.25;
+    margin-bottom: 4px;
+}
+
+.cmp_name, .job_location {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.tags {
+    display: flex;
+}
+
+.company_details {
+    margin-bottom: 5px;
+}
+
+.tag_item {
+    font-size: 14px;
+    background: whitesmoke;
+    padding: 3px 10px;
+    margin-right: 8px;
+}
+
+p {
+    font-size: 14px;
+    margin-top: 14px;
+}
+
+.body>ul {
+    margin: 14px 0;
+    padding-left: 40px;
+}
+
+.body>ul>li {
+    list-style: disc;
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+
+.job_res>li:last-child {
+    margin-bottom: 0;
+}
+
+.apply_btn {
+    width: 100%;
+    padding: 20px;
+    background-color: #fff;
+    border-top: solid rgba(66, 66, 66, 0.35) 1px;
+}
+
+.apply_btn>button {
+    padding: 12px 16px;
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    background: var(--primary-color);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.apply_btn>button>svg {
+    height: 14px;
+    width: 14px;
+    margin-left: 5px;
+}
+
+.ps_fixed {
+    position: fixed;
+}
+
+.ps_static {
+    position: static !important;
+}
+
+@media (min-width: 1px) and (max-width: 1023px) {
+
+    .apply_btn {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        z-index: 1;
+    }
+}
+
+
+/* 404 */
+
+.not_found {
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.text {
+    font-size: 120px;
+    font-weight: 700;
+}
+
+.sub_text {
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.return_home_btn {
+    margin-top: 32px;
+}
+
+.return_home_btn>a>button {
+    border: none;
+    padding: 10px 30px;
+    background: var(--primary-color);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 10px;
+}

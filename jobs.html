@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta property="og:type" content="website" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <title></title>
+
+    <!-- Favicon Icon -->
+    <link rel="shortcut icon" href="/dist/img/favicon.png">
+
+    <link rel="stylesheet" href="/dist/css/main_style.css">
+    <link rel="stylesheet" href="/dist/css/home_style.css">
+    <link rel="stylesheet" href="/dist/css/jobs_style.css">
+
+    <!-- Google Tag Manager -->
+    <script async>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KKDFJD42');</script>
+    <!-- End Google Tag Manager -->
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KKDFJD42"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="app">
+        <header></header>
+
+        <main>
+            <div class="search_engine">
+                <div class="jobsearch_main">
+                    <div class="jobsearch">
+                        <form action="/jobs" class="flx">
+                            <div class="input_title">
+                                <div class="job_title">
+                                    <span><label for="input_what">What?</label></span>
+                                    <input type="text" name="q" id="input_what"
+                                        placeholder="Job title, keyword, company" autocomplete="off">
+                                    <span><svg xmlns="http://www.w3.org/2000/svg" width="800px" height="800px"
+                                            viewBox="0 0 24 24" fill="none">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                d="M17.0392 15.6244C18.2714 14.084 19.0082 12.1301 19.0082 10.0041C19.0082 5.03127 14.9769 1 10.0041 1C5.03127 1 1 5.03127 1 10.0041C1 14.9769 5.03127 19.0082 10.0041 19.0082C12.1301 19.0082 14.084 18.2714 15.6244 17.0392L21.2921 22.707C21.6828 23.0977 22.3163 23.0977 22.707 22.707C23.0977 22.3163 23.0977 21.6828 22.707 21.2921L17.0392 15.6244ZM10.0041 17.0173C6.1308 17.0173 2.99087 13.8774 2.99087 10.0041C2.99087 6.1308 6.1308 2.99087 10.0041 2.99087C13.8774 2.99087 17.0173 6.1308 17.0173 10.0041C17.0173 13.8774 13.8774 17.0173 10.0041 17.0173Z"
+                                                fill="#0F0F0F" />
+                                        </svg>
+                                    </span>
+                                </div>
+                                <div class="sugg hide">
+                                    <ul class="search_suggestion">
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="location_input_pc">
+                                <div class="job_location">
+                                    <span><label for="input_where">Where?</label></span>
+                                    <input type="text" name="l" id="input_where" placeholder="Location"
+                                        autocomplete="off">
+                                    <span><svg xmlns="http://www.w3.org/2000/svg"
+                                            xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000" version="1.1"
+                                            id="Capa_1" width="800px" height="800px" viewBox="0 0 395.71 395.71"
+                                            xml:space="preserve">
+                                            <g>
+                                                <path
+                                                    d="M197.849,0C122.131,0,60.531,61.609,60.531,137.329c0,72.887,124.591,243.177,129.896,250.388l4.951,6.738   c0.579,0.792,1.501,1.255,2.471,1.255c0.985,0,1.901-0.463,2.486-1.255l4.948-6.738c5.308-7.211,129.896-177.501,129.896-250.388   C335.179,61.609,273.569,0,197.849,0z M197.849,88.138c27.13,0,49.191,22.062,49.191,49.191c0,27.115-22.062,49.191-49.191,49.191   c-27.114,0-49.191-22.076-49.191-49.191C148.658,110.2,170.734,88.138,197.849,88.138z" />
+                                            </g>
+                                        </svg></span>
+                                </div>
+                                <div class="location_suggestion hide">
+                                    <ul class="location_sugg"></ul>
+                                </div>
+                            </div>
+                            <button type="submit">Find Jobs</button>
+                        </form>
+                    </div>
+                    <div class="jobsearch_mobile">
+                        <div class="mobile_btn">
+                            <button id="mobile_jobsearch">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="800px" height="800px" viewBox="0 0 24 24"
+                                    fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                        d="M17.0392 15.6244C18.2714 14.084 19.0082 12.1301 19.0082 10.0041C19.0082 5.03127 14.9769 1 10.0041 1C5.03127 1 1 5.03127 1 10.0041C1 14.9769 5.03127 19.0082 10.0041 19.0082C12.1301 19.0082 14.084 18.2714 15.6244 17.0392L21.2921 22.707C21.6828 23.0977 22.3163 23.0977 22.707 22.707C23.0977 22.3163 23.0977 21.6828 22.707 21.2921L17.0392 15.6244ZM10.0041 17.0173C6.1308 17.0173 2.99087 13.8774 2.99087 10.0041C2.99087 6.1308 6.1308 2.99087 10.0041 2.99087C13.8774 2.99087 17.0173 6.1308 17.0173 10.0041C17.0173 13.8774 13.8774 17.0173 10.0041 17.0173Z"
+                                        fill="#0F0F0F" />
+                                </svg>
+                                <span id="btn_text">Job title, keyword, company</span>
+                            </button>
+                        </div>
+                        <div class="search_mobile">
+                            <form action="/jobs" id="mobile_find_jobs">
+                                <div class="input_cont">
+                                    <div class="mobilesearch_cont flx">
+                                        <div class="back_btn"><svg xmlns="http://www.w3.org/2000/svg" class="svg-icon"
+                                                style="width: 25px; height: 25px;vertical-align: middle;fill: currentColor;overflow: hidden;"
+                                                viewBox="0 0 1024 1024" version="1.1">
+                                                <path
+                                                    d="M426.65984 170.65984q17.67424 0 30.16704 12.4928t12.4928 30.16704q0 18.00192-12.67712 30.33088l-225.66912 225.66912 665.00608 0q17.67424 0 30.16704 12.4928t12.4928 30.16704-12.4928 30.16704-30.16704 12.4928l-665.00608 0 225.66912 225.66912q12.67712 12.32896 12.67712 30.33088 0 17.67424-12.4928 30.16704t-30.16704 12.4928q-18.00192 0-30.33088-12.32896l-298.65984-298.65984q-12.32896-13.0048-12.32896-30.33088t12.32896-30.33088l298.65984-298.65984q12.67712-12.32896 30.33088-12.32896z" />
+                                            </svg></div>
+                                        <div class="jobsearch_input">
+                                            <span><svg xmlns="http://www.w3.org/2000/svg" width="800px" height="800px"
+                                                    viewBox="0 0 24 24" fill="none">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                                        d="M17.0392 15.6244C18.2714 14.084 19.0082 12.1301 19.0082 10.0041C19.0082 5.03127 14.9769 1 10.0041 1C5.03127 1 1 5.03127 1 10.0041C1 14.9769 5.03127 19.0082 10.0041 19.0082C12.1301 19.0082 14.084 18.2714 15.6244 17.0392L21.2921 22.707C21.6828 23.0977 22.3163 23.0977 22.707 22.707C23.0977 22.3163 23.0977 21.6828 22.707 21.2921L17.0392 15.6244ZM10.0041 17.0173C6.1308 17.0173 2.99087 13.8774 2.99087 10.0041C2.99087 6.1308 6.1308 2.99087 10.0041 2.99087C13.8774 2.99087 17.0173 6.1308 17.0173 10.0041C17.0173 13.8774 13.8774 17.0173 10.0041 17.0173Z"
+                                                        fill="#0F0F0F" />
+                                                </svg></span>
+                                            <input id="jobtitle_mobile" type="text" name="q"
+                                                placeholder="Job title, keyword, company" autocomplete="off">
+                                        </div>
+                                    </div>
+                                    <div class="location_input">
+                                        <span><svg xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000" version="1.1"
+                                                id="Capa_1" width="800px" height="800px" viewBox="0 0 395.71 395.71"
+                                                xml:space="preserve">
+                                                <g>
+                                                    <path
+                                                        d="M197.849,0C122.131,0,60.531,61.609,60.531,137.329c0,72.887,124.591,243.177,129.896,250.388l4.951,6.738   c0.579,0.792,1.501,1.255,2.471,1.255c0.985,0,1.901-0.463,2.486-1.255l4.948-6.738c5.308-7.211,129.896-177.501,129.896-250.388   C335.179,61.609,273.569,0,197.849,0z M197.849,88.138c27.13,0,49.191,22.062,49.191,49.191c0,27.115-22.062,49.191-49.191,49.191   c-27.114,0-49.191-22.076-49.191-49.191C148.658,110.2,170.734,88.138,197.849,88.138z" />
+                                                </g>
+                                            </svg></span>
+                                        <input type="text" name="l" placeholder="Location" id="joblocation_mobile"
+                                            autocomplete="off">
+                                    </div>
+                                </div>
+                                <div class="job_recom_body">
+                                    <div class="recent_jobs">
+                                        <div class="title">Trending Jobs</div>
+                                        <div class="jobitems_cont">
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="findjob_btn" data-stickto="bottom">
+                                    <button type="submit" id="search_btn">Find Jobs</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="job_section">
+                <div class="heading">
+                    <h1 class="page_heading"></h1>
+                </div>
+                <div class="jobs_listing">
+                    <div class="left_cont">
+                        <div class="items_cards">
+
+
+                        </div>
+                        <div class="lazy_loading">
+                            <button id="lazy_load_btn">Load more</button>
+                        </div>
+                    </div>
+                    <div class="right_cont">
+                        <div class="jobs_detail_pane">
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </main>
+
+        <footer></footer>
+    </div>
+    <script src="/dist/js/app.js" type="module" async></script>
+    <script src="/dist/js/jobs.js" async></script>
+</body>
+
+</html>

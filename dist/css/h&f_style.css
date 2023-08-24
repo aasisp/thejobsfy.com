@@ -1,0 +1,264 @@
+.flx {
+    display: flex;
+}
+
+#logo>a {
+    display: flex;
+    align-items: center;
+    color: var(--primary-color);
+    font-size: 20px;
+    font-weight: 900;
+}
+
+nav {
+    justify-content: space-between;
+    padding: 17px 0;
+}
+
+.menu_right {
+    align-items: center;
+}
+
+.menu_items {
+    font-size: 16px;
+    font-weight: 400;
+    margin-right: 20px;
+}
+
+.menu_items:nth-child(3) {
+    margin-right: 0!important;
+}
+
+.mobile_nav_cont {
+    display: none;
+}
+
+/* For Mid-screen pc */
+@media (min-width: 1024px) and (max-width: 1480px) {
+    #app{
+        width: 1200px!important;
+    }
+
+    .mobile_nav_cont {
+        display: none;
+    }
+}
+
+/* For Table and mobile devices */
+@media (min-width: 1px) and (max-width: 1023px) {
+    #app{
+        width: 100%!important;
+    }
+    
+    .menu_right {
+        display: none;
+    }
+
+    .mobile_nav_cont {
+        display: flex!important;
+        align-items: center;
+    }
+
+    #burger {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 24px;
+        height: 18px;
+    }
+
+    #burger>span {
+        height: 2px;
+        display: block;
+        border-radius: 1rem;
+        background-color: var(--primary-color);
+        transform-origin: 4px 0px;
+    }
+
+    #burger>span:nth-child(2) {
+        width: 18px;
+    }
+
+    .active {
+        transform: rotate(45deg) translate(-2px,-1px);
+    }
+
+    .active>span {
+        transform: rotate(0) scale(.2);
+    }
+
+    .active>span:nth-child(1) {
+        width: 24px;
+        opacity: 0;
+    }
+
+    .active>span:nth-child(2) {
+        width: 24px!important;
+        transform: rotate(0) translate(2px, 1px);
+        transform-origin: 0% 100%;
+    }
+
+    .active>span:nth-child(3) {
+        width: 24px;
+        background-color: #000;
+        transform: rotate(90deg) translate(-14px,-11px);
+    }
+
+    .mobile_nav_menu {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: calc(100vh - 58px);
+        margin-top: 58px;
+        background-color:transparent;
+        backdrop-filter: blur(3.6rem);
+        z-index: 2;
+    }
+
+    .nav_items {
+        padding: 10px 24px;
+    }
+
+    .nav_items>li {
+        margin: 0;
+        font-size: 19px;
+        font-weight: 600;
+        padding: 10px 0!important;
+
+    }
+
+    .social_connect {
+        padding: 160px 24px
+    }
+
+    .social_connect>div {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.5;
+    }
+
+    .social_connect>ul>li>a {
+        font-size: 15px;
+        font-weight: 300;
+        padding: 7px 0;
+        display: flex;
+        align-items: center;
+    }
+    .social_connect>ul>li>a>svg {
+        margin-right: 8px;
+        width: 40px;
+        height: 40px;
+    }
+
+    /* footer style start here!  */
+    .social {
+        display: none;
+    }
+
+    .copyright>ul {
+        display: block;
+    }
+
+    .copyright>ul>li {
+        margin-bottom: 10px;
+    }
+
+    .nav_pages {
+        display: flex;
+        flex-wrap: wrap;
+    }
+} 
+
+
+/* footer stlye starts here */
+
+.footer_cont {
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 24px 0;
+    color: var(--secondary-color);
+}
+
+.social>ul {
+    display: flex;
+    width: 170px;
+    justify-content: space-between;
+}
+
+.social>ul>li>a {
+    display: flex;
+}
+
+.copyright {
+    font-size: 14px;
+}
+
+.social>ul>li>a>svg {
+    width:  30px;   
+    height: 30px;
+}
+
+.copyright>ul>li>a {
+    color: var(--secondary-color);
+}
+
+.copyright>ul>li {
+   margin-right: 24px;
+}
+
+.social {
+    width: 500px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.s_head {
+    display: flex;
+    width: 300px;
+    font-weight: 800;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.s_head>span {
+    display: block;
+    width: 140px;
+    height: 2px;
+    opacity: 0.5;
+    background-color: var(--secondary-color);
+}
+
+.nav_pages {
+    display: flex;
+}
+
+.nav_pages>li {
+    color: var(--secondary-color);
+    margin-right: 20px;
+}
+
+a::before {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: var(--primary-color);
+    transform: scaleX(0);
+    transform-origin: top left;
+    transition: transform 0.3s ease;
+}
+
+.nav_pages>li>a {
+    display: inline-block;
+    position: relative;
+    padding-bottom: 2px;
+}
+
+.nav_pages>li>a:hover:before {
+    transform: scale(1);
+}
