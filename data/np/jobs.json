@@ -1745,5 +1745,32 @@
                 ]
             }
         ]
+    },
+
+    {
+        "cmpId": "13",
+        "cmpName": "Hostmandu",
+        "industry": "Hospitality",
+        "hQLocation": "Sankhamul, Kathmandu",
+        "aboutCmp": "Hostmandu is a hospitality service provider based in Kathmandu. We offer furnished apartments, bed and breakfast, and other customization services. For inquiries, please call us at +977 9801194921, or 9801194875.",
+        "img": { "logo": "/dist/img/cmp/Hostmandu_logo.png", "cover": "" },
+        "links": { "site": "https://hostmandu.com.np/", "fb": "Hostmandu" },
+        "intership": [],
+        "jobOpening": [
+            {
+                "id": "23HM00",
+                "no" : "1",
+                "tags": ["Full-time"],
+                "position": "Front Desk Receptionist",
+                "issueDate": "2023-08-25",
+                "apply": "https://www.linkedin.com/jobs/search/?currentJobId=3696843637&distance=25&geoId=104630404&keywords=front%20desk&refresh=true",
+                "jobDescription": [
+                    {
+                        "About the role" : "This is a full-time on-site role for a Front Desk Receptionist at Hostmandu in Kathmandu. The Front Desk Receptionist will be responsible for handling phone calls, managing appointments, clerical duties, and providing exceptional customer service to all guests.",
+                        "Qualifications": [ "Phone etiquette skills", "Receptionist duties skills", "Clerical skills", "Excellent communication skills", "Customer service skills", "Attention to detail and ability to multitask", "Ability to handle cash and credit card transactions", "Proficiency in Microsoft Office and other computer software programs", "Associate degree in business administration or related field", "Experience in a hospitality or customer service industry is a plus" ]
+                    }
+                ]
+            }
+        ]
     }
 ]
