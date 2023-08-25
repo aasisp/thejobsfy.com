@@ -1357,8 +1357,23 @@
                         "Benefits": [ "International working environment, and a unique opportunity to learn from the best in e-commerce and business growth.", "A platform to learn from Alibaba’s world-leading ecosystem", "Rigorous training and exposure in team management, leadership, business analytics, and operations.", "An opportunity to train the next generation of business leaders", "Competitive salary and incentive package", "Health & Medical insurance" ]
                     }
                 ]
+            },
+            {
+                "id": "23DANP010",
+                "no" : "1",
+                "tags": ["Full-time"],
+                "position": "Performance and Governance Associate",
+                "issueDate": "2023-07-24",
+                "apply": "https://www.linkedin.com/jobs/view/3693554193/?alternateChannel=search&refId=6IIZffym9riyY8S4RhD1%2Bw%3D%3D&trackingId=nYabppVlVdib%2BXnWsf0drQ%3D%3D",
+                "jobDescription": [
+                    {
+                        "Job Description" : [ "Streamline performance monitoring process for Traffic Operations (TO) ", "Initiate projects to turn data/insights into action and impact ", "Streamlining the external stakeholders with right Tops stakeholders ", "Oversee data products - key metrics, definition and logic ", "Build up data-driven decision-making culture by setting up AB testing workflow and analytical framework ", "Ensure data quality by performing data validation, basic analysis and trouble-shooting ", "Generate insights and business opportunities from data by performing trend analysis, cohort analysis, thematic analysis and deep dive ", "In-charge of routine (e.g. Weekly/Monthly Business Review) and ad-hoc data request ", "Design and develop executive and operational report/dashboard ", "Process improvement and automation ", "Training and be the go-to person for any data/Excel related questions ", "Identify skill gaps and upskilling the TO talents to drive growth and employee satisfaction ", "Lead training and onboarding new talent in traffic ops" ],
+                        "Requirements": [ "At least 3 years of experience with advanced skills in Microsoft Excel and proficiency in SQL preferred ", "Experience with analysis of raw data to insights ", "Strong communication and collaboration skills ", "Strong accountability and ownership values ", "Ability to adapt to new systems and technologies ", "A problem solver with good time management skills" ],
+                        "Competencies": [ "Decision-making ", "Analytical ", "Communication ", "Initiative ", "Team Player" ],
+                        "Benefits": [ "International working environment, and a unique opportunity to learn from the best in e-commerce and business growth.", "A platform to learn from Alibaba’s world-leading ecosystem", "Rigorous training and exposure in team management, leadership, business analytics, and operations.", "An opportunity to train the next generation of business leaders", "Competitive salary and incentive package", "Health & Medical insurance" ]
+                    }
+                ]
             }
-            
         ]
     },
 
