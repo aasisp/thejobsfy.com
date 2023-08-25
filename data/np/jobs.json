@@ -1787,5 +1787,35 @@
                 ]
             }
         ]
+    },
+
+    {
+        "cmpId": "14",
+        "cmpName": "KrispCall",
+        "industry": "IT Services",
+        "hQLocation": "Singapore",
+        "aboutCmp": "KrispCall is a Virtual Cloud Phone System for your Business. It helps you to make your telephone system robust, smooth and handy. More than a phone system, it offers you with easy callbox system, phone numbers from more than 100 countries, and Click to Call widget. KrispCall is for modern Business; receive calls from your website, and regular phones, all in one place.",
+        "img": { "logo": "/dist/img/cmp/Krispcall_logo.png", "cover": "" },
+        "links": { "site": "https://krispcall.com/", "fb": "krispcallvoip" },
+        "intership": [],
+        "jobOpening": [
+            {
+                "id": "23KRIC00",
+                "no" : "1",
+                "tags": ["Full-time"],
+                "position": "Senior Software Engineer (Python)",
+                "issueDate": "2023-08-25",
+                "jobLocation": "Kathmandu",
+                "apply": "https://www.linkedin.com/jobs/view/3693522270/",
+                "jobDescription": [
+                    {
+                        "Job Description" : [ "Collaborate effectively to understand requirements, provide status updates, and coordinate tasks with other team members.", "Take ownership of existing systems while reducing technical debts in order to make the system stable, reliable, maintainable, and scalable." ],
+                        "Responsibilities": [ "Design, develop and maintain applications in collaboration with the architects, cross-functional teams, and the product management team.", "Oversee mid and associate engineers' growth." ],
+                        "Requirements": [ "Bachelor’s degree in Computer Science, Engineering, or IT-related field.", "5+ years of proven experience and proficiency in any programming languages like Python, JAVA, C#, or Ruby.", "Deep understanding of data structures, algorithms, design principles, patterns, and architecture.", "Able to troubleshoot and debug systems to identify and resolve issues.", "Experienced in writing unit, integration, and end-to-end tests with some experience or understanding of Test Driven Development.", "Strong problem-solving and analytical abilities.", "Excellent communication and leadership skills." ],
+                        "Benefits": [ "Level-up Career", "Competitive Salary", "Opportunity to work in a product-based company", "Mentorship and Learning from experts", "Free Lunch", "5 working days a week (Mon - Fri)", "Work-Life Balance" ]
+                    }
+                ]
+            }
+        ]
     }
 ]
