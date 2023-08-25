@@ -1817,5 +1817,34 @@
                 ]
             }
         ]
+    },
+
+    {
+        "cmpId": "15",
+        "cmpName": "F1 Soft",
+        "industry": "IT Services",
+        "hQLocation": "Lalitpur, Kathmandu",
+        "aboutCmp": "F1Soft Group is an innovation engine in digital finance that is helping simplify the lives of millions of Nepalis. Since inception in 2004, we have been helping build a digital ecosystem that connects the Nepal population to essential financial services in simple, affordable and secure ways. The F1Soft Group comprises businesses in several verticals that enable digital transformation and contribute to ecosystem development. Our solutions cater to mobile financial services, eHealth, EduTech, InsureTech, and eCommerce, among others.",
+        "img": { "logo": "/dist/img/cmp/F1soft_logo.png", "cover": "" },
+        "links": { "site": "https://f1soft.com/", "fb": "f1soft" },
+        "intership": [],
+        "jobOpening": [
+            {
+                "id": "23F1S00",
+                "no" : "1",
+                "tags": ["Full-time"],
+                "position": "Senior UI/UX Designer",
+                "issueDate": "2023-08-15",
+                "expDate": "2023-08-29",
+                "apply": "https://f1soft.com/career/F1Soft-UXD",
+                "jobDescription": [
+                    {
+                        "Job Description" : "UI/UX designers are responsible for the design and functionality of a product's user interface and user experience. This includes gathering requirements from users, creating wireframes and prototypes, designing the visual elements of the product (such as graphic elements and navigation components), and testing the product to ensure it is user-friendly and intuitive. It is important for UI/UX designers to stay up to date with design trends and best practices in order to create innovative and effective designs that users will enjoy interacting with.",
+                        "Responsibilities": [ "Investigating user experience design requirements for our suite of digital assets.", "Developing and conceptualizing a comprehensive UI/UX design strategy for the brand.", "Producing high-quality UX design solutions through wireframes, visual and graphic designs, flow diagrams, storyboards, site maps, and prototypes.", "Designing UI elements and tools such as navigation menus, search boxes, tabs, and widgets for our digital assets.", "Testing UI elements such as CTAs, banners, page layouts, page designs, page flows, and target links for landing pages.", "Test software to ensure responsiveness and efficiency.", "Troubleshoot, debug and upgrade software.", "Collaborating with the marketing team, and internal and external designers to ensure the creation and delivery of tailored experiences for the digital user.", "Providing advice and guidance on the implementation of UX research methodologies and testing activities in order to analyze and predict user behavior.", "Adhering to style standards on typography and graphic design.", "Mentoring and guiding the team members.", "Monitoring and measuring customer experience.", "Managing periodic reporting on the progress to the Engineering manager and director." ],
+                        "Requirements": [ "Minimum Bachelor’s Degree in Computer Engineering, Computer Science or any relevant field of study", "Prior 4+ Years of Experience as an UI/UX Designer", "Full stack and creative and innovative concept for product design", "Targeted Industry: Software Development" ]
+                    }
+                ]
+            }
+        ]
     }
 ]
