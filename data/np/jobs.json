@@ -556,8 +556,22 @@
                         "Qualification": [ "Bachelor‘s degree with 1.5 Years Experience and intermediate 3 Years of experience in a related field.", "Should have good communication and leadership skills.", "Technically sound and problem-solving.", "Result-driven and performance management.", "Ability to thrive in tough working conditions.", "Should have a 2-wheeler driving license." ]
                     }
                 ]
-            }
-         ]
+            },
+
+{
+                "id": "23WLC05",
+                "no" : "1",
+                "tags": ["Full-time"],
+                "position": "Customer Value Manager",
+                "issueDate": "2023-10-30",
+                "expDate": "2023-11-10",
+                "apply": "https://worldlink.com.np/career/customer-value-manager/",
+                "jobDescription": [
+                    {
+                        "SKILLS & RESPONSIBILITIES": ["Analyze customer information enabling you to develop insights into customer trends and implicit behavior.", "Effective customer onboarding by maintaining proper interaction and engagement of customers with the organization.",  "Design and implement retention strategies for each customer segment and service process design.", "Maintaining and enriching the customer’s lifetime value.", "Development of customer loyalty program and evaluation of retention and loyalty campaigns.", "Maintain a high level of customer response and satisfaction based on both survey and attrition indicators. Increased reference ability and look to promote connection between the customer and Organization at all times.", "Develop plans to enhance ARPU and Churn Management.",  "You will engage and partner with various teams to conduct research and gather information from various sources and tools (internal/external)."],
+"QUALIFICATIONS & REQUIREMENTS": ["Master’s Degree in Management, or any other relevant field.", "Minimum of 7 years of experience in telecom; ISP; Fintech.", "Cooperative with excellent communication and organizational skills", "Highly creative with experience in identifying target audiences and devising campaigns that engage, inform, and motivate.", "Strong Data Analytics skills.", "Ability to manage multiple complex engagement programs.", "Customer Service orientation and customer-centric", "Working Knowledge of customer service software, databases, and tools.", "Strong interpersonal skills with a challenging and persuasive manner, to win and maintain the respect of colleagues across the business at all levels.", "Excellent means of analysis and marketing research methods."]
+                    }
+              ]
     },
 
     {
