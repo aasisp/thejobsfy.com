@@ -5067,6 +5067,63 @@
             ]
           }
         ]
+      },
+      {
+        "id": "23ID03",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Java Developer",
+        "issueDate": "2023-10-31 22:20:00",
+        "expDate": "2023-11-15",
+        "apply": "https://infodev.com.np/career/253/SoftwareDevelopment/Java-Developer-vacancy",
+        "jobDescription": [
+          {
+            "Qualification & Experience": [
+              "Bachelor's degree in IT",
+              "3+ year experience in related field"
+            ],
+            "Job Description": [
+              "Analyze business requirements and develop a solution that is robust and scalable.",
+              "Designing, creating, and implementing Java-based applications.",
+              "Write well-designed, efficient code.",
+              "Defining application objectives and functionality.",
+              "Ensuring that written code falls in line with the project objectives.",
+              "Design database architecture.",
+              "Enforce software best practices, standards and processes.",
+              "Identifying and resolving immediate and potential issues with applications.",
+              "Ensure our applications are secure and up-to-date.",
+              "Executing and implementing software tests.",
+              "Developing quality assurance procedures.",
+              "Documenting every part of the development process for assistance."
+            ],
+            "Required Skills": [
+              "Excellent in core java with sound knowledge of Java 8, Java 11.",
+              "Good knowledge of spring mvc and spring boot and its components.",
+              "Good knowledge of data structures and algorithms. ",
+              "Should have a good knowledge of Hibernate , JPA.",
+              "Experience with testing artifacts like Unit Testing(Junit)/TDD/BDD.",
+              "Experience in working with MySQL or PostgresQL or both.",
+              "Ability to learn new software and technologies quickly.",
+              "Good knowledge of git with experience on platforms like gitlab or github or bitbucket.",
+              "Hands on with Linux commands.",
+              "Should have a good knowledge of developing and integrating Restful web services using spring boot."
+            ],
+            "Career Benefits": [
+              "Dynamic Working Environment",
+              "Learning and Development",
+              "Employee Provident Fund",
+              "Medical and Accidental Insurance",
+              "Leave Encashment",
+              "5 Working Days",
+              "Fuel Allowance",
+              "Repair and Maintenance Allowance",
+              "Travel Allowance",
+              "Referral Reward"
+            ]
+          }
+        ]
       }
     ]
   }
