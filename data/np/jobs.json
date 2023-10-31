@@ -4918,6 +4918,85 @@
             ]
           }
         ]
+      },
+      {
+        "id": "23ID01",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Frontend Engineer (React)",
+        "issueDate": "2023-10-31 21:50:00",
+        "expDate": "2023-11-01",
+        "apply": "https://infodev.com.np/career/273/Frontend/Frontend-Engineer-(React)-vacancy",
+        "jobDescription": [
+          {
+            "Qualification & Experience": [
+              "Bachelor's Degree in Computer Science or a related field.",
+              "2-3 years of proven experience in the Frontend role."
+            ],
+            "Job Description": [
+              "Develop and implement user-friendly web applications with clean and efficient code using HTML, CSS, and JavaScript.",
+              "Collaborate with designers and backend developers to turn UI/UX designs and wireframes into functional and visually appealing web pages or applications.",
+              "Ensure the technical feasibility of UI/UX designs and optimize them for maximum speed and scalability.",
+              "Participate in code reviews and provide constructive feedback to team members.",
+              "Identify and address performance and security issues in frontend code.",
+              "Stay up-to-date with the latest frontend technologies and industry best practices to continuously improve development processes and deliver high-quality products.",
+              "Optimize applications for maximum speed and scalability.",
+              "Work closely with cross-functional teams to understand project requirements and deliver solutions that meet business needs.",
+              "Troubleshoot and debug frontend code to resolve issues and improve application stability.",
+              "Collaborate with UX/UI designers to bridge the gap between graphical design and technical implementation, ensuring a seamless and enjoyable user experience.",
+              "Maintain code integrity and organization, following coding standards and best practices.",
+              "Actively contribute to the design and implementation of frontend architecture and patterns.",
+              "Assist in the development and execution of A/B tests to optimize user interactions and conversions.",
+              "Provide technical guidance and support to junior developers and team members."
+            ],
+            "Required Skills": [
+              "HTML, CSS, and JavaScript.",
+              "Familiarity with popular frontend frameworks/libraries like React, Angular, or Vue.js is crucial.",
+              "Knowledge of responsive design principles and techniques is essential for creating user interfaces that adapt well to different screen sizes and devices.",
+              "Frontend Engineers should be able to write code that works consistently across various web browsers to ensure a seamless user experience.",
+              "Proficiency in version control systems, such as Git, is important for collaborating with other developers and managing code changes efficiently.",
+              "Understanding performance optimization techniques is crucial to ensure that web applications load quickly and deliver a smooth user experience.",
+              "Frontend Engineers should have a basic understanding of UX design principles to create interfaces that are user-friendly and intuitive.",
+              "Familiarity with testing frameworks and debugging tools helps in identifying and fixing issues in frontend code.",
+              "Knowledge of frontend build tools like Webpack, Grunt, or Gulp is beneficial for automating tasks and streamlining the development process.",
+              "Frontend Engineers should be adept at analyzing and solving technical challenges that arise during development.",
+              "Strong communication skills are essential for working effectively with cross-functional teams, including designers, backend developers, and stakeholders.",
+              "Keeping up with the latest trends, best practices, and emerging technologies in frontend development is crucial to stay relevant in the field.",
+              "Writing clean, well-organized code and paying attention to details are vital for creating maintainable and bug-free applications.",
+              "Frontend Engineers may encounter new technologies or changing requirements, so being adaptable and open to learning new skills is valuable.",
+              "Effective time management skills help in meeting project deadlines and delivering high-quality work in a timely manner."
+            ],
+            "Other Specifications": [
+              "Bachelor's degree in Computer Science, Software Engineering, or related field (or equivalent work experience).",
+              "Proven experience as a Frontend Engineer or similar role with a strong portfolio showcasing your previous projects.",
+              "Proficiency in front-end web technologies like HTML, CSS, JavaScript, and modern frameworks (e.g., React, Angular, Vue.js).",
+              "Familiarity with frontend build tools, such as Webpack, Grunt, or Gulp.",
+              "Experience with version control systems, such as Git.",
+              "Strong understanding of responsive web design and cross-browser compatibility.",
+              "Knowledge of performance optimization techniques for web applications.",
+              "Familiarity with RESTful APIs and asynchronous request handling.",
+              "Experience with testing frameworks (e.g., Jest, Enzyme) and test-driven development (TDD) principles is a plus.",
+              "Solid problem-solving skills and a detail-oriented mindset.",
+              "Ability to work collaboratively in a team environment and communicate effectively with both technical and non-technical team members.",
+              "A passion for staying up-to-date with the latest frontend development trends and technologies."
+            ],
+            "Career Benefits": [
+              "Competitive Salaries.",
+              "Employee Provident Fund.",
+              "Communication Allowance.",
+              "Accidental & Medical Insurance.",
+              "Leave Encashment.",
+              "Festival Allowance.",
+              "Laptop Allowance.",
+              "Paid Holidays: Annual Leave & Sick Leave.",
+              "5 Working Days.",
+              "Referral Reward Program.",
+              "Career Development Trainings."
+            ]
+          }
+        ]
       }
     ]
   }
