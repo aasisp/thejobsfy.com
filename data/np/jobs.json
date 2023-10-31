@@ -5295,6 +5295,65 @@
             ]
           }
         ]
+      },
+      {
+        "id": "23ID07",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Quality Analyst",
+        "issueDate": "2023-10-31 23:05:00",
+        "expDate": "2023-11-15",
+        "apply": "https://infodev.com.np/career/117/SoftwareDevelopment/Quality-Analyst-vacancy",
+        "jobDescription": [
+          {
+            "Qualification & Experience": [
+              "Bachelors in Computer Science/Engineering/IT/IM/CSIT/Computing",
+              "2-5 years of experience"
+            ],
+            "Job Description": [
+              "Consistently performs analysis and translates business needs to create high-quality Business Requirements and Functional Specifications documentation and design the solution within specified time frames to solve most complex problems.",
+              "Participates as needed in all phases of solution development with emphasis on the planning, analysis, testing, integration, documentation and presentation phases.",
+              "Keep all stakeholders updated about software process/status as per the project/product communication plan."
+            ],
+            "Required Skills": [
+              "Knowledge of API testing.",
+              "Basic knowledge in SQL.",
+              "Implementation of the bug tracking tools.",
+              "Programming skills for automation testing.",
+              "Understanding and analytics in business intelligence.",
+              "Highly motivated.",
+              "Flexible to changes.",
+              "Ability to work in team.",
+              "Ability to adapt.",
+              "Proactive in nature."
+            ],
+            "Other Specifications": [
+              "Review requirements, specifications and technical design documents to provide timely and meaningful feedback.",
+              "Create detailed, comprehensive and well-structured test plans and test cases.",
+              "Estimate, prioritize, plan and coordinate testing activities.",
+              "Design, develop and execute automation scripts using open source tools.",
+              "Identify, record, document thoroughly and track bugs.",
+              "Perform thorough regression testing when bugs are resolved.",
+              "Develop and apply testing processes for new and existing products to meet client needs.",
+              "Liaise with internal teams (e.g. developers and product managers) to identify system requirements.",
+              "Monitor debugging process results. Investigate the causes of non-conforming software and train users to implement solutions.",
+              "Track quality assurance metrics, like defect densities and open defect counts.",
+              "Stay up-to-date with new testing tools and test strategies."
+            ],
+            "Career Benefits": [
+              "Employee Provident Fund.",
+              "Medical and Accidental Insurance.",
+              "Leave Encashment.",
+              "5 Working Days.",
+              "Fuel Allowance.",
+              "Repair and Maintenance Allowance.",
+              "Travel Allowance.",
+              "Candidate Reference Allowance."
+            ]
+          }
+        ]
       }
     ]
   }
