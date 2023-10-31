@@ -4823,5 +4823,102 @@
         ]
       }
     ]
+  },
+  {
+    "cmpId": "18",
+    "cmpName": "Info Developers",
+    "industry": "IT Services",
+    "hQLocation": "Lalitpur, Kathmandu",
+    "aboutCmp": "InfoDevelopers started its journey in 2059 B.S with an ambition to build a software team which will provide software services using leading edge technologies ensuring quality and reliability. With only a handful of people working in the beginning, today the company has 250 plus highly skilled and trained employees and is constantly growing.",
+    "img": {
+      "logo": "/dist/img/cmp/InfoDev_logo.jpg",
+      "cover": ""
+    },
+    "links": {
+      "site": "https://infodev.com.np",
+      "fb": "InfoDevelopers"
+    },
+    "intership": [],
+    "jobOpening": [
+      {
+        "id": "23ID00",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Associate Project Manager",
+        "issueDate": "2023-10-31 21:22:00",
+        "expDate": "2023-11-15",
+        "apply": "https://infodev.com.np/career/274/PMO/Associate-Project-Manager-vacancy",
+        "jobDescription": [
+          {
+            "Job Description": [
+              "Manage strategic planning assigned by the CPMO and Top Management. ",
+              "Synchronize all Project related reports from the start, including planning, gathering information and resources, project execution tracking and resolving, maintenance to a formalized project closure with proper documentation.",
+              "Submitting project deliverables and ensuring that they adhere to quality standards.",
+              "Manage multiple teams and assign work activities, including research, analysis, development, and testing of designs, issue resolutions, status reporting, implementation, documentation, training, etc. ",
+              "Coordinate with project teams to have a check on the regular deliveries of the assigned projects. ",
+              "Execute quality checks on the assigned projects by taking regular updates on the reports, project analysis, presentations. ",
+              "Evaluate all the Project's progressions and suggest or recommend improvements to make the work efficient. ",
+              "Strong planning, organization, and customer-focused leadership skills are a must to ensure minimal negligence. ",
+              "Assist and coordinate with the team in discussing project development, costing, benefits, adjusting timing, and reducing financial risk impact. ",
+              "Responsible for overall sprint or iteration outcome, update sprint tracker with accurate information to identify the risk and issues proactively at the sprint level. ",
+              "Coordinating with cross-discipline team members to make sure that all parties are on track with project requirements, deadlines, and schedules.",
+              "Coordinating the development of user manuals, training materials, and other documents as needed to enable successful implementation and turnover of the process or system to the clients.",
+              "Prepare budget based on scope of work and resource requirements. Track project costs in order to meet budget.",
+              "Create and develop performance report, delivery method, scope of work, and general duties records.",
+              "Help out in managing customer demands to ensure maximum satisfaction, and to maintain quality over quantity. Ensure deadlines at any cost.",
+              "Carry out other technical related duties that may be required along with training and mentoring the technical Team.",
+              "Motivate team towards technical and other various documentations and ensure that the industry standard documentation is maintained and available at any point of time.",
+              "Take necessary measures to avoid centralization of knowledge. There should not be any dependency in the project on anybody.",
+              "Regular supervision and monitoring, motivate team members to increase efficiency and create suitable working environment in a team."
+            ],
+            "Required Skills": [
+              "Ensure monitoring and supervision of the staffs for team growth in the long-run.",
+              "Ensure proper performance review, evaluation and feedback as per the work initiated or target achieved on quarterly, semi-quarterly or annually.",
+              "Follow of proper succession plan for team development and career progression of the department.",
+              "Plan various learning and development activities to enhance knowledge and skills of team members as well as provide guidance, training, mentorship and/or instruction. ",
+              "Motivate teams for boosting their self-esteem to enhance their skills and abilities.",
+              "Develop team meetings, interaction sessions and planning for overall efficiency of the department.",
+              "Create a suitable working environment."
+            ],
+            "Other Specifications": [
+              "Experience on project management software tools, methodologies, and best practices would be an advantage .",
+              "Proven ability to solve problems creatively.",
+              "Experience seeing projects through the full life cycle .",
+              "Excellent analytical skills .",
+              "Strong interpersonal skills and extremely resourceful .",
+              "Team Management and Leadership skills .",
+              "Strong organizational skills to give the team direction .",
+              "Professionalism with excellent time management skills.",
+              "Ability to prioritize workload.",
+              "Attention to details and Quick learning ability.",
+              "Ability to work independently.",
+              "Persuasive in both communication, presentation, leadership, and facilitation skills.",
+              "Ability to communicate ideas in both technical and user-friendly languages. ",
+              "Ability to deliver on tight schedules with minimal supervision.",
+              "Ability to manage and influence virtual teams.",
+              "Strong Interpersonal and problem solving skills.",
+              "Ability to motivate the team members for increased productivity.",
+              "Emotional Intelligence.",
+              "Skill of effective delegation of tasks."
+            ],
+            "Career Benefits": [
+              "Competitive Salaries.",
+              "Employee Provident Fund.",
+              "Communication Allowance.",
+              "Accidental & Medical Insurance.",
+              "Leave Encashment.",
+              "Festival Allowance.",
+              "Laptop Allowance.",
+              "Paid Holidays: Annual Leave & Sick Leave.",
+              "5 Working Days.",
+              "Referral Reward Program.",
+              "Career Development Trainings."
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
