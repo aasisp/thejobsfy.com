@@ -4997,6 +4997,76 @@
             ]
           }
         ]
+      },
+      {
+        "id": "23ID02",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Network & System Administrator",
+        "issueDate": "2023-10-31 21:60:00",
+        "expDate": "2023-11-15",
+        "apply": "https://infodev.com.np/career/266/Infra/Network-&-System-Administrator-vacancy",
+        "jobDescription": [
+          {
+            "Qualification & Experience": [
+              "Bachelor's Degree.",
+              "1+ year experience"
+            ],
+            "Job Description": [
+              "Design, implement, and maintain network infrastructure, including LANs, WANs, and VPNs.",
+              "Configure and manage network devices such as routers, switches, firewalls, and load balancers.",
+              "Monitor network performance and troubleshoot connectivity issues.",
+              "Implement security measures to protect the network from unauthorized access and cyber threats.",
+              "Install, configure, and maintain server operating systems (e.g., Windows Server, Linux).",
+              "Manage user accounts, permissions, and access controls.",
+              "Perform system backups and ensure data integrity.",
+              "Install and update software and applications.",
+              "Monitor server performance and optimize resource utilization.",
+              "Implement security policies and protocols to safeguard data and systems.",
+              "Conduct regular security audits and vulnerability assessments.",
+              "Apply patches and updates to address security vulnerabilities.",
+              "Ensure compliance with industry regulations and standards (e.g., HIPAA, GDPR).",
+              "Respond to user-reported issues and provide technical support.",
+              "Diagnose and resolve hardware and software problems.",
+              "Document troubleshooting procedures and solutions for future reference.",
+              "Use monitoring tools to track system and network performance.",
+              "Set up alerts to proactively address issues and downtime.",
+              "Capacity planning to ensure resources meet current and future needs.",
+              "Maintain detailed documentation of network and system configurations.",
+              "Create and update network diagrams, asset inventories, and procedures manuals.",
+              "Develop and maintain disaster recovery plans and backup procedures.",
+              "Conduct regular backup testing to ensure data recovery readiness.",
+              "Collaborate with other IT teams, such as cybersecurity and helpdesk, to address issues and implement projects.",
+              "Stay updated on industry trends and emerging technologies."
+            ],
+            "Required Skills": [
+              "Attention to details and Quick learning ability .",
+              "Ability to work independently.",
+              "Persuasive in both communication, presentation and facilitation skills .",
+              "Ability to deliver on tight schedules."
+            ],
+            "Other Specifications": [
+              "Bachelor's degree in Information Technology, Computer Science, or a related field (or equivalent work experience).",
+              "Relevant certifications (e.g., CompTIA Network+, Cisco CCNA, Microsoft MCSA) may be required or preferred.",
+              "Proven experience in network and system administration.",
+              "Strong knowledge of networking protocols, server operating systems, and security practices.",
+              "Proficiency in scripting and automation for tasks and processes.",
+              "Problem-solving skills and the ability to work well under pressure.",
+              "Excellent communication and teamwork skills."
+            ],
+            "Career Benefits": [
+              "Employee Provident Fund.",
+              "Dynamic working environment.",
+              "Medical and Accidental Insurance.",
+              "Leave Encashment.",
+              "5 Working Days.",
+              "Travel Allowance.",
+              "Referral Rewards."
+            ]
+          }
+        ]
       }
     ]
   }
