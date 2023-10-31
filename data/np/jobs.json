@@ -4657,5 +4657,75 @@
         ]
       }
     ]
+  },
+  {
+    "cmpId": "17",
+    "cmpName": "Fonepay",
+    "industry": "Fintech",
+    "hQLocation": "Lalitpur, Kathmandu",
+    "aboutCmp": "Fonepay Payment Service Limited is a company under F1Soft Group operational since 2004, a diversified Digital Financial Service (DFS) holding company. Fonepay is Nepal's first mobile payment network licensed by the central bank as a Payment System Operator (PSO) and also it is the first Non-card based PSO in Nepal to achieve PCI DSS certification. This interoperable network connects over 64+ partners with over 18mn + registered customers and 1.2mn + merchants in Nepal. Fonepay QR is EMV compliant, which is the most widely accepted standard for QR payments.",
+    "img": {
+      "logo": "/dist/img/cmp/Fonepay_logo.png",
+      "cover": ""
+    },
+    "links": {
+      "site": "https://fonepay.com/",
+      "fb": "fonepay"
+    },
+    "intership": [],
+    "jobOpening": [
+      {
+        "id": "23FP00",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Senior Associate QA Engineer",
+        "issueDate": "2023-10-31 15:11:00",
+        "expDate": "2023-11-09",
+        "apply": "https://fonepay.com/career/Senior%20Associate%20QA%20Engineer?refer=thejobsfy.com",
+        "jobDescription": [
+          {
+            "Job Responsibilities": [
+              "Ensure quality of product and product documentation.",
+              "Creating detailed, comprehensive and well-structured test cases.",
+              "Estimating, prioritizing, planning and coordinating quality testing activities.",
+              "Review requirements, specifications and technical design documents to provide timely and meaningful feedback. ",
+              "Identify, record, track bugs and issues with proper reports.",
+              "Learn new technology and techniques for continuous improvement of the product quality.",
+              "Perform Load and Stress Testing.",
+              "Perform Automation Testing on need basis."
+            ],
+            "Requirement": [
+              "Education: Bachelor’s degree in Computer Science, Computer Engineering, or related technical discipline.",
+              "Prior Years of Experience required: Minimum 2-3 years."
+            ],
+            "Technical Skills": [
+              "Familiar with HTML, CSS, JavaScript and python.",
+              "Basic knowledge in SQL.",
+              "Good knowledge about API Testing ",
+              "Basic knowledge about Load/ Stress testing.",
+              "Familiar with Security Testing",
+              "Proper Test Documentation and Test case management tool",
+              "Automation testing with selenium, robot framework, cypress. is plus",
+              "Certificate in QA and prior training will be plus point."
+            ],
+            "Behavioral Skills": [
+              "Strong analytical skills.",
+              "Proficient in verbal and written English.",
+              "Proper Communication Skills.",
+              "Problem Solving and Critical thinking."
+            ],
+            "Benefits": [
+              "A stellar opportunity to work with the rising company.",
+              "The amazing and passionate young team, beautiful office space.",
+              "The trust of the biggest FinTech company.",
+              "One-of-a-kind company culture and growth opportunities to accelerate your career progression.",
+              "Company-provided lunch facility."
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
