@@ -3,7 +3,7 @@ const footerHTML = () => {
             <div class="footer_cont flx">
                 <div class="copyright">
                     <ul class="flx">
-                        <li>&copy;2023 TheJobsfy.com</li>
+                        <li>&copy;2024 TheJobsfy.com</li>
                         <div class="nav_pages">
                             <li><a href="/privacy">Privacy</a></li>
                             <li><a href="/about">About</a></li>
