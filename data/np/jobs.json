@@ -549,6 +549,68 @@
             ]
         }
         ]
+      },
+      {
+        "id": "23ES017",
+        "no": "1",
+        "tags": ["Full-time"],
+        "position": "iOS Developer",
+        "issueDate": "2024-01-12 14:05:00",
+        "apply": "https://blog.esewa.com.np/career-opportunities-with-esewa?refer=thejobsfy.com",
+        "jobDescription": [
+          {
+            "Job Description": [
+                "Develop clarity in scope and dependencies for all product enhancements and new product developments, and their positioning in the larger eSewa technology tech stack and product portfolio.", "Support PO and leads in analyses of user requirements and breaking into respective tasks / features with a focus on productivity and quality.", "Assist in prioritization of tasks within the team keeping in mind the priorities of client. ensure releases and deliver projects on time.", "Write and test code, unit tests, refining and rewriting it as necessary and communicate with any programmers involved in the project.", "Integrate new features with backward compatibility. Keep the app updated with the latest platform.", "Clear understanding and ability to implement architectural design patterns, dependency injection. Figure out shortcomings on provided requirement with API, mockup, and resources", "Develop SDK for other merchants to integrate eSewa in their applications", "Maintain and ensure coding standards and security measures in development procedure. Follow best coding practices and standards as per the decided upon principles.", "Contribute to improving code maintainability, readability, and coupling.", "Investigate and fix major, minor bugs and debug.", "Diagnose, Fix and engage in Root cause analysis and creation of emergency patches. Monitor and correct software defects and/ or implement best practices. For example, Legacy code refactoring and optimization, etc.", "Document aspect of the application for future reference.", "Create technical specifications and documentation as per the standards set.", "work closely with PO, leads and internally in the team.", "Maintain smooth communication within the team to rectify any internal issues faced in the project. Working closely with PO and internal departments to communicate project status.", "Making sure that the team members are following the standards and indulge in code review and peer review. Contribute ideas and evaluate the ideas of the other team members."            ],
+            "Job Specification": [
+                "Bachelor in IT field or relevant field.", "3 to 5 years of experience in iOS development (Swift & Objective C)", "Proper knowledge on Design Patterns MVP/MVVM and clean Architecture", "Experience with Auto layout as well as programmatic approach build layout", "Deep understanding of core frameworks such UIKit, Cocoa Touch, Core Animation, Core Graphics, Core Data etc.", "Experience with offline storage, caching, concurrency (GCD) and performance tuning.", "Experience writing scalable and testable code (Unit Testing) & familiarity with continuous integration (CI) / Continuous delivery (CD).", "Comfortable working with agile methodology and tools", "Familiarity with RESTful APIs to connect IOS applications to back-end services", "Good Understanding of Apple’s design principles, interface guidelines and UI/UX Standards across iOS ecosystem", "Experience with tuning performance and memory issues using tools such as Instruments depending upon project needs.", "Familiarity with cloud message APIs and push notifications", "Knack for benchmarking and optimization & pixel perfect design", "Proficient understanding of code versioning tools i.e Git", "Good knowledge on Certificates & Signing, Provisioning profile and App store deployment process.", "Experience with third party frameworks such as Alamo-fire, Crashlytics, Firebase etc and design tools such as figma, zeplin etc."
+            ]
+        }
+        ]
+      },
+      {
+        "id": "23ES017",
+        "no": "1",
+        "tags": ["Full-time"],
+        "position": "iOS Developer",
+        "issueDate": "2024-01-12 14:05:00",
+        "apply": "https://blog.esewa.com.np/career-opportunities-with-esewa?refer=thejobsfy.com",
+        "jobDescription": [
+          {
+            "Job Description": [
+                "Develop clarity in scope and dependencies for all product enhancements and new product developments, and their positioning in the larger eSewa technology tech stack and product portfolio.", "Support PO and leads in analyses of user requirements and breaking into respective tasks / features with a focus on productivity and quality.", "Assist in prioritization of tasks within the team keeping in mind the priorities of client. ensure releases and deliver projects on time.", "Write and test code, unit tests, refining and rewriting it as necessary and communicate with any programmers involved in the project.", "Integrate new features with backward compatibility. Keep the app updated with the latest platform.", "Clear understanding and ability to implement architectural design patterns, dependency injection. Figure out shortcomings on provided requirement with API, mockup, and resources", "Develop SDK for other merchants to integrate eSewa in their applications", "Maintain and ensure coding standards and security measures in development procedure. Follow best coding practices and standards as per the decided upon principles.", "Contribute to improving code maintainability, readability, and coupling.", "Investigate and fix major, minor bugs and debug.", "Diagnose, Fix and engage in Root cause analysis and creation of emergency patches. Monitor and correct software defects and/ or implement best practices. For example, Legacy code refactoring and optimization, etc.", "Document aspect of the application for future reference.", "Create technical specifications and documentation as per the standards set.", "work closely with PO, leads and internally in the team.", "Maintain smooth communication within the team to rectify any internal issues faced in the project. Working closely with PO and internal departments to communicate project status.", "Making sure that the team members are following the standards and indulge in code review and peer review. Contribute ideas and evaluate the ideas of the other team members."            ],
+            "Job Specification": [
+                "Bachelor in IT field or relevant field.", "3 to 5 years of experience in iOS development (Swift & Objective C)", "Proper knowledge on Design Patterns MVP/MVVM and clean Architecture", "Experience with Auto layout as well as programmatic approach build layout", "Deep understanding of core frameworks such UIKit, Cocoa Touch, Core Animation, Core Graphics, Core Data etc.", "Experience with offline storage, caching, concurrency (GCD) and performance tuning.", "Experience writing scalable and testable code (Unit Testing) & familiarity with continuous integration (CI) / Continuous delivery (CD).", "Comfortable working with agile methodology and tools", "Familiarity with RESTful APIs to connect IOS applications to back-end services", "Good Understanding of Apple’s design principles, interface guidelines and UI/UX Standards across iOS ecosystem", "Experience with tuning performance and memory issues using tools such as Instruments depending upon project needs.", "Familiarity with cloud message APIs and push notifications", "Knack for benchmarking and optimization & pixel perfect design", "Proficient understanding of code versioning tools i.e Git", "Good knowledge on Certificates & Signing, Provisioning profile and App store deployment process.", "Experience with third party frameworks such as Alamo-fire, Crashlytics, Firebase etc and design tools such as figma, zeplin etc."
+            ]
+        }
+        ]
+      },
+      {
+        "id": "23ES018",
+        "no": "1",
+        "tags": ["Full-time"],
+        "position": "Data Engineer",
+        "issueDate": "2024-01-12 14:13:00",
+        "apply": "https://blog.esewa.com.np/career-opportunities-with-esewa?refer=thejobsfy.com",
+        "jobDescription": [
+          {
+            "Job Description": ["Install/ backup/restore and recover the databases", "Database upgrade and data migration", "Query optimization and performance tuning", "Generate the complex automated/manual report", "Working closely with the Development team to design and develop databases", "Database system monitoring and troubleshooting"],
+            "Job Specification": ["Bachelor’s Degree in computer science", "2-3 years of experience in the iOS Development (Swift and Objective C)", "Strong knowledge of Relational Database Management Systems especially MySQL & PostgreSQL.", "Experience in managing high-volume OLTP/OLAP databases.", "Strong bash/shell and Python scripting skills.", "Strong experience in database upgrades, backup, recovery, and migration.", "Experience with query optimization & and performance tuning.", "Strong knowledge of replication and clustering technology(specially Galera or Percona, group replication)", "Experience in data warehousing and ETL processing."            ]
+        }
+        ]
+      },
+      {
+        "id": "23ES019",
+        "no": "1",
+        "tags": ["Full-time"],
+        "position": "Content Marketing Lead",
+        "issueDate": "2024-01-12 14:19:00",
+        "apply": "https://blog.esewa.com.np/career-opportunities-with-esewa?refer=thejobsfy.com",
+        "jobDescription": [
+          {
+            "Job Description": ["Oversee content marketing.", "Develop and execute comprehensive content marketing campaigns aligned with our overall marketing goals", "Oversee team to create high-quality, engaging, and informative content for various digital platforms, including social media, blog posts, articles, and newsletters", "Craft long-form content such as blog posts, articles, and newsletters to establish our brand as a leader in the industry", "Proofread and edit content created by other team members in absence of Creative Head.", "Work hand in hand with Digital Marketing Specialist to analyze content marketing data and metrics to measure the effectiveness of campaigns and identify areas for improvement", "Stay up to date on the latest content marketing trends and best practices.", "Use Campaign and Project management skills for smooth operation.", "Coordinate with third parties for marketing campaigns."],
+            "Job Specification": ["Bachelor’s degree in Marketing, Communication, or a related field but preference will be given to candidate with Master’s degree completed.", "5+ years of experience in content marketing or a related field", "Proven ability to create engaging and informative content that resonates with target audiences", "Strong understanding of social media platforms, including Facebook, Twitter, LinkedIn, and Instagram", "Understanding of content marketing analytics and reporting tools", "Excellent written and verbal communication skills", "Ability to manage multiple projects simultaneously and meet deadlines", "Experience working in a team environment and managing others", "Google or Coursera certificate in digital marketing", "Experience with Social Media Platform."]
+        }
+        ]
       }
     ]
   },
@@ -2356,6 +2418,24 @@
           {
             "Job Responsibilities": [
                "Bachelor ( Computer Science )", "Identifying Customer needs, clarify information, research every issue and provide solution or alternatives.", "Deal with clients via phone/mail/SMS", "Receive inbound calls & reply to the concern clients until and unless the problem is resolved via Phone/mail.  ", "Assist customers with any technical issues experience with any services and escalate any un-resolved issues to Team Leader (TL) appropriately.", "Receive and disseminate accurate information", "Prepare and submit (individual) daily/weekly/monthly reports.", "Interdepartmental coordination.", "Problem escalates to relevant departments.", "Perform duties as per ES requirements", "Build sustainable personal relationship and engage customers by taking extra miles", "Meet personal/team qualitative and quantitative target", "Monitoring and troubleshooting Network related issues."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23SUB03",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Key Account Manager-Enterprise Business - Middle",
+        "issueDate": "2024-01-12 14:15",
+        "expDate": "2024-1-20",
+        "apply": "https://career.subisu.net.np/recruitment/public/jobdetail/274?refer=https://thejobsfy.com",
+        "Location": "Baluwatar",
+        "jobDescription": [
+          {
+            "Job Responsibilities": ["Follow up regularly both New Customer & existing customer for new business growth and retention of existing business.", "Prepare and perform presentation of Services rendered by SUBISU to Corporate Clients whenever required.", "Prepare report on Enterprise sales activities and submit it to supervisor.", "Collect and analyze the trends of change in price of a customer package in business houses, different zones and in special service requests.", "Prepare agreement adhering to terms and conditions of the company and follow up customer contracts and Payments.", "Design Solution in alignment with customer’s business requirements with internal sales and sales support department.", "Analyze the customers’ needs and recommend feasible solution that optimize value and resources for both the customer and the company.", "Execute opportunities within customer firms for development of business"
             ]
           }
         ]
