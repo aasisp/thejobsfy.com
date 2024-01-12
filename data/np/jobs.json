@@ -479,7 +479,7 @@
         "no": "1",
         "tags": ["Full-time"],
         "position": "Content Writer",
-        "issueDate": "2024-01-12 01:32:17",
+        "issueDate": "2024-01-12 13:32:17",
         "apply": "https://blog.esewa.com.np/career-opportunities-with-esewa?refer=thejobsfy.com",
         "jobDescription": [
           {
@@ -500,6 +500,20 @@
                 "Strong writing skills and communication skills in both Nepali and English languages",
                 "Excellent research skills."
             ]
+          }
+        ]
+      },
+      {
+        "id": "23ES014",
+        "no": "1",
+        "tags": ["Full-time"],
+        "position": "QA Engineer",
+        "issueDate": "2024-01-12 14:32:17",
+        "apply": "https://blog.esewa.com.np/career-opportunities-with-esewa?refer=thejobsfy.com",
+        "jobDescription": [
+          {
+            "Job Description": ["Develop comprehensive test plan for each project.", "Create detailed and effective test cases with high coverage", "Execute test cases efficiently, ensuring thorough coverage", "Document and report defects promptly, ensuring the accuracy", "Develop and maintain automated test scripts with a focus on coverage", "Conduct performance testing to identify and address system issues", "Collaborate effectively with the development and other teams", "Maintain accurate and up to date test documentation"],
+            "Job Specification": ["Bachelor’s degree in computer science", "Minimum 2 years of experience in QA/QC, including functional, integration, and regression testing, as well as smoke testing.", "Proficiency in preparing Test Artifacts, including Test Cases, Test Plans, and Test Scripts.", "Basic understanding of Linux/Windows operating systems and commands.", "Familiarity with RDBMS fundamentals and the ability to write SQL queries (Oracle/Microsoft SQL Server/MySQL).", "Familiarity with Docker, kubernetes, rancher and Jenkins would be considered an added value.", "Proficient skills in documentation, and presentation tools, such as Microsoft Word and Excel.", "Experience with the Atlassian suite (JIRA, Confluence)."]
           }
         ]
       }
@@ -1279,6 +1293,24 @@
               "Excellent interpersonal and public speaking skills",
               "Aptitude in decision-making and problem-solving",
               "Prior experience in financial services shall be preferred."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23KH020",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Front desk Officer",
+        "issueDate": "2024-01-12 13:35:00",
+        "apply": "https://blog.khalti.com/career-job/front-desk-officer/?refer=https://thejobsfy.com",
+        "jobDescription": [
+          {
+            "Responsibilities": ["Greet and welcome guests as soon as they arrive at the office", "Direct visitors to the appropriate person and building", "Answer, screen, and forward incoming phone calls", "Ensure the reception area is tidy and presentable, with all necessary stationery and material (e.g. pens, forms, and brochures)", "Provide basic and accurate information in person and via phone/email", "Receive, sort, and distribute daily mail/deliveries and bills to the finance department", "Order front office supplies and keep an inventory of stock", "Update calendars and schedule meetings and interviews", "Keep updated records of canteen expenses and costs", "Perform other clerical receptionist duties such as filing, photocopying, transcribing, and others", "Coordinate back and forth with HR and Admin department as when required"
+            ],
+            "Requirements and skills": ["Proven work experience as a Receptionist, Front Office Representative or similar role", "Proficiency in Microsoft Office Suite", "Hands-on experience with office equipment (e.g scanners and printers)", "Professional attitude and appearance", "Solid written and verbal communication skills", "Ability to be resourceful and proactive when issues arise", "Excellent organizational and coordination skills", "Multitasking and time-management skills, with the ability to prioritize tasks", "Customer service attitude"
             ]
           }
         ]
