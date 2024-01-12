@@ -5,6 +5,6 @@
         "timezone": ["Asia/Katmandu", "Asia/Kathmandu"],
         "url": "/data/np/jobs.json",
         "siteMeta": [{"name": "title", "content": "Jobs in Nepal | TheJobsfy.com"}, {"name": "description", "content": "TheJobsfy.com helps you find top jobs in Nepal"}],
-        "cities": ["Kathmandu","Bharatpur","Pokhara","Jitpur","Biratnagar","Ghorahi","Birganj","Butwal","Dharan","Dhangadhi","Janakpur","Hetauda","Kirtipur","Godawari","Birendranagar","Siraha","Bhaktapur","Itahari","Nepalganj","Sanwal","Bhairahawa","Tilakpur","Gulariya","Tulsipur","Kalaiya","Hanumannagar","Baglung","Palpa","Bidur","Panauti","Khadbari","Malangawa","Jaleshwar","Daksinkali","Dadeldhura","Ilam","Salyan","Bhimphedi","Ramechhap","Bandipur","Amritpur","Kalaun","Jumla"]
+        "cities": ["Kathmandu","Bharatpur", "Baluwatar", "Pokhara","Jitpur","Biratnagar","Ghorahi","Birganj","Butwal","Dharan","Dhangadhi","Janakpur","Hetauda","Kirtipur","Godawari","Birendranagar","Siraha","Bhaktapur","Itahari","Nepalganj","Sanwal","Bhairahawa","Tilakpur","Gulariya","Tulsipur","Kalaiya","Hanumannagar","Baglung","Palpa","Bidur","Panauti","Khadbari","Malangawa","Jaleshwar","Daksinkali","Dadeldhura","Ilam","Salyan","Bhimphedi","Ramechhap","Bandipur","Amritpur","Kalaun","Jumla"]
     }
 ]
