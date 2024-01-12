@@ -533,6 +533,22 @@
             ]
         }
         ]
+      },
+      {
+        "id": "23ES016",
+        "no": "1",
+        "tags": ["Full-time"],
+        "position": "Front-End Developer",
+        "issueDate": "2024-01-12 13:50:00",
+        "apply": "https://blog.esewa.com.np/career-opportunities-with-esewa?refer=thejobsfy.com",
+        "jobDescription": [
+          {
+            "Job Description": ["Develop new user facing features", "Build reusable code and libraries for future use", "Ensure the technical feasibility of UI/UX designs", "Optimize application for maximum speed and scalability", "Assure that all user input is validated before submitting to back-end", "Collaborate with other team members and stakeholders"
+            ],
+            "Job Specification": ["Bachelor’s degree in IT or Engineering", "Minimum 1 year of experience", "In-depth understanding of the entire web development process (design, development, and deployment)", "JavaScript, AngularJS/Angular, HTML/CSS/SASS/SCSS", "Responsive/Mobile Design", "Git/Version Control", "jQuery", "RESTful Services/APIs", "Testing/Debugging", "Cross-Browser Development", "Web Performance Optimization (WPO)", "Excellent analytical and multitasking skills"
+            ]
+        }
+        ]
       }
     ]
   },
@@ -1605,6 +1621,43 @@
             ],
             "QUALIFICATIONS & REQUIREMENTS": ["Bachelor’s running or at least intermediate completed with experience in a related field of 6 months.", "Should have good speaking manners and communication skills.", "Must be interested in dealing with customers.", "Willing to work cross-functionally as per requirement.", "Should be flexible to duty hours and highly empathetic.", "Must have own two-wheeler."
             ]
+          }
+        ]
+      },
+      {
+        "id": "23WLC08",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Logistics Assistant",
+        "issueDate": "2024-1-12 13:45:00",
+        "expDate": "2024-1-17",
+        "apply": "https://worldlink.com.np/career/logistics-assistant/?refer=https://thejobsfy.com",
+        "jobDescription": [
+          {
+            "SKILLS & RESPONSIBILITIES": ["Follow up on item creation on Oracle with a base of item use and nature.", "Shipment verifying requisition versus receiving and entry on software.", "Conduct periodic counts and physical verification of inventory.", "Ensure the availability of stocks for installation/troubleshooting/upselling/expansion.", "Maintain proper control of inventory at branch warehouse and sub locators.", "Verifying the reports of logistics and reporting to management.", "Proper Documentation, record keeping and verification with the base of Logistic guidelines."
+            ],
+            "QUALIFICATIONS & REQUIREMENTS": ["Bachelor’s running or at least intermediate completed with experience in a related field of 6 months.", "Should have good speaking manners and communication skills.", "Must be interested in dealing with customers.", "Willing to work cross-functionally as per requirement.", "Should be flexible to duty hours and highly empathetic.", "Must have own two-wheeler."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23WLC09",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Business Growth Associate",
+        "issueDate": "2024-1-12 13:55:00",
+        "expDate": "2024-1-17",
+        "apply": "https://worldlink.com.np/career/business-growth-associate/?refer=https://thejobsfy.com",
+        "jobDescription": [
+          {
+            "SKILLS & RESPONSIBILITIES": ["Handle inquiries from enterprise customers and provide appropriate product offerings.", "Establish customer mapping and devise strategies for visiting and successfully closing sales.", "Formulate and implement activities related to enterprise sales.", "Provide weekly, monthly, and quarterly sales activity reports to a supervisor.", "Plan sales activities and meet assigned sales targets.", "Establish and sustain a professional relationship with customers.", "Collaborate and communicate with cross-functional teams to resolve customer issues and ensure the timely completion of projects.", "Create technical solution proposals and generate quotations for offered products and services.", "Engage in cross-functional roles within the sales department.", "Ensure a robust payment cycle for customers and promptly clear receivables."
+            ],
+            "QUALIFICATIONS & REQUIREMENTS": ["Bachelor’s degree in management/IT or related field with minimum 2-year experience or master’s degree with 1 year experience.", "IT knowledge preferred.", "Having a 2-wheeler with a valid driving license is preferred.", "Good verbal and written communication skills in English and Nepali.", "Good working knowledge of Microsoft Office and excel.", "Be courteous, and punctual, and adhere to company policies."            ]
           }
         ]
       }
