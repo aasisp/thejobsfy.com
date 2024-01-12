@@ -516,6 +516,23 @@
             "Job Specification": ["Bachelor’s degree in computer science", "Minimum 2 years of experience in QA/QC, including functional, integration, and regression testing, as well as smoke testing.", "Proficiency in preparing Test Artifacts, including Test Cases, Test Plans, and Test Scripts.", "Basic understanding of Linux/Windows operating systems and commands.", "Familiarity with RDBMS fundamentals and the ability to write SQL queries (Oracle/Microsoft SQL Server/MySQL).", "Familiarity with Docker, kubernetes, rancher and Jenkins would be considered an added value.", "Proficient skills in documentation, and presentation tools, such as Microsoft Word and Excel.", "Experience with the Atlassian suite (JIRA, Confluence)."]
           }
         ]
+      },
+      {
+        "id": "23ES015",
+        "no": "1",
+        "tags": ["Full-time"],
+        "position": "User Experience (UX) Specialist",
+        "issueDate": "2024-01-12 13:42:00",
+        "apply": "https://blog.esewa.com.np/career-opportunities-with-esewa?refer=thejobsfy.com",
+        "jobDescription": [
+          {
+            "Job Description": [
+                "Conduct user interviews, surveys, and usability studies for insights into user behavior and preferences.", "Create detailed user personas to guide design decisions.", "Develop wireframes and interactive prototypes to illustrate design concepts and workflows.", "Define and refine information architecture for optimized user flow and navigation.", "Plan and conduct usability testing sessions to validate design assumptions.", "Ensure designs comply with accessibility standards for diverse user bases.", "Embrace an iterative design process, incorporating feedback for continuous improvement.", "Develop and maintain UI guidelines for cohesive and branded digital products.", "Communicate design decisions and rationale effectively, incorporating stakeholder feedback."
+            ],
+            "Job Specification": ["Bachelor’s or Master’s degree in Business, Marketing, Communication, or a related field.", "Proven UX Specialist experience with a successful project portfolio.", "Strong grasp of user-centered design principles and methodologies.", "Collaborative team player with effective communication skills.", "Proficient problem-solving and critical thinking abilities.", "Adaptive to changing design trends, technologies, and user preferences.", "Exceptional attention to detail in design and documentation.", "Impressive portfolio featuring diverse UX projects, including wireframes, prototypes, and final designs."
+            ]
+        }
+        ]
       }
     ]
   },
