@@ -2457,6 +2457,41 @@
             "Required Knowledge and Skills": ["CCNP/ CCNA / JNCI-SP / JNCIA  or equivalent certified candidate will be preferred", "Must be familiar with standard technology, concepts, practices and procedures required within an ISP", "Strong analytics and troubleshooting skills;", "Should be a team player", "Good Knowledge of CWDM / DWDM Networks", "Good Knowledge of scripting."]
           }
         ]
+      },
+      {
+        "id": "23SUB05",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Sr. System Administrator/ Engineer - Middle",
+        "issueDate": "2024-01-13 13:45",
+        "expDate": "2024-1-25",
+        "apply": "https://career.subisu.net.np/recruitment/public/jobdetail/280",
+        "Location": "Baluwatar",
+        "jobDescription": [
+          {
+            "Job Responsibilities": ["Oversee the installation, configuration, maintenance, and upgrades of server systems and software.", "Administer, monitor, and troubleshoot operating systems, server infrastructures and critical system services.", "Ensure the availability and performance of servers and critical services.", "Basic Networking for the Server Infrastructure.", "Conduct regular system audits for security and performance enhancements.", "Design and implement scalable and robust infrastructure solutions.", "Verifying, repairing and recovering the integrity and availability of all hardware, server resources, systems and key processes (I.e., Firewall, DNS, MAIL, Rancid, Nagios, Web, Database, Docker, Kubernetes, Ansible, Asterisk, VMWARE, HCI, Cacti, MRTG, SNMP, ELK Stack, etc)", "Collaborate with cross-functional teams to optimize system architecture and performance.", "Implement and maintain security measures to protect systems from unauthorized access and cyber threats.", "Develop and implement automation scripts to streamline repetitive tasks.", "Develop and maintain backup and recovery strategies to safeguard critical data.", "Evaluate emerging technologies and recommend relevant solution", "Provide advanced technical support to resolve complex system service issues.", "Diagnose and troubleshoot hardware and software problems.", "Collaborate with other IT teams to resolve escalated support issues.", "Maintain comprehensive system documentation, including configurations, processes, and procedures.", "Develop and update disaster recovery plans and procedures."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23SUB06",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "L1 Support - Junior",
+        "issueDate": "2024-01-13 13:55",
+        "expDate": "2024-1-25",
+        "apply": "https://career.subisu.net.np/recruitment/public/jobdetail/281",
+        "Location": "Baluwatar",
+        "jobDescription": [
+          {
+            "Job Responsibilities": ["Respond promptly and professionally to customer inquiries through various channels (phone, email, chat, field visit etc.).", "Provide clear and concise information to customers regarding our internet-based products and services.", "Assist customers in troubleshooting basic technical issues and guide them through problem-resolution steps.", "Diagnose and resolve simple technical issues related to internet connectivity, account access, and basic software functionalities.", "Escalate complex technical issues to higher-level support teams while providing comprehensive information for efficient resolution.", "Maintain accurate and detailed records of customer interactions, technical issues, and solutions in the support ticketing system.", "Contribute to the creation and improvement of knowledge-base articles for common issues and solutions.", "Collaborate with other support team members to share information and ensure a consistent approach to problem resolution.", "Communicate effectively with customers, keeping them informed about the status of their inquiries and resolutions."]
+          }
+        ]
       }
     ]
   },
