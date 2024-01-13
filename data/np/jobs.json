@@ -5775,6 +5775,187 @@
             ]
           }
         ]
+      },
+      {
+        "id": "23ID010",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Network & System Administrator",
+        "issueDate": "2024-01-13 14:00",
+        "expDate": "2024-01-15",
+        "apply": "https://infodev.com.np/career/266/Infra/Network-&-System-Administrator-vacancy",
+        "jobDescription": [
+          {
+            "Qualification & Experience": [
+                "Bachelor's Degree",
+                "1+ year"
+            ],
+            "Job Description": ["Design, implement, and maintain network infrastructure, including LANs, WANs, and VPNs.", "Configure and manage network devices such as routers, switches, firewalls, and load balancers.", "Monitor network performance and troubleshoot connectivity issues.", "Implement security measures to protect the network from unauthorized access and cyber threats.", "Install, configure, and maintain server operating systems (e.g., Windows Server, Linux).", "Manage user accounts, permissions, and access controls.", "Perform system backups and ensure data integrity.", "Install and update software and applications.", "Monitor server performance and optimize resource utilization.", "Implement security policies and protocols to safeguard data and systems.", "Conduct regular security audits and vulnerability assessments.", "Apply patches and updates to address security vulnerabilities.", "Ensure compliance with industry regulations and standards (e.g., HIPAA, GDPR).", "Respond to user-reported issues and provide technical support.", "Diagnose and resolve hardware and software problems.", "Document troubleshooting procedures and solutions for future reference.", "Use monitoring tools to track system and network performance.", "Set up alerts to proactively address issues and downtime.", "Capacity planning to ensure resources meet current and future needs.", "Maintain detailed documentation of network and system configurations.", "Create and update network diagrams, asset inventories, and procedures manuals.", "Develop and maintain disaster recovery plans and backup procedures.", "Conduct regular backup testing to ensure data recovery readiness.", "Collaborate with other IT teams, such as cybersecurity and helpdesk, to address issues and implement projects.", "Stay updated on industry trends and emerging technologies."
+            ],
+            "Required Skills": [
+                "Attention to details and Quick learning ability.",
+                "Ability to work independently.",
+                "Persuasive in both communication, presentation and facilitation skills.",
+                "Ability to deliver on tight schedules."
+            ],
+            "Other Specifications": ["Bachelor's degree in Information Technology, Computer Science, or a related field (or equivalent work experience).", "Relevant certifications (e.g., CompTIA Network+, Cisco CCNA, Microsoft MCSA) may be required or preferred.", "Proven experience in network and system administration.", "Strong knowledge of networking protocols, server operating systems, and security practices.", "Proficiency in scripting and automation for tasks and processes.", "Problem-solving skills and the ability to work well under pressure.", "Excellent communication and teamwork skills."],
+            "Career Benefits": [
+                "Competitive Salaries",
+                "Employee Provident Fund",
+                "Communication Allowance",
+                "Accidental & Medical Insurance",
+                "Leave Encashment",
+                "Festival Allowance",
+                "Fuel Allowance",
+                "Vehicle Repair and Maintenance Allowance",
+                "Laptop Allowance",
+                "Paid Holidays: Annual Leave & Sick Leave",
+                "5 Working Days",
+                "Candidates Referral Reward Program",
+                "Product Trainings",
+                "Career Development Trainings"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23ID011",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Java Developer",
+        "issueDate": "2024-01-13 14:10",
+        "expDate": "2024-01-15",
+        "apply": "https://infodev.com.np/career/253/SoftwareDevelopment/Java-Developer-vacancy",
+        "jobDescription": [
+          {
+            "Qualification & Experience": [
+                "Bachelor Degree in IT.",
+                "3+ years in related field."
+            ],
+            "Job Description": [
+                "Analyze business requirements and develop a solution that is robust and scalable.",
+                "Designing, creating, and implementing Java-based applications.",
+                "Write well-designed, efficient code.",
+                "Defining application objectives and functionality.",
+                "Ensuring that written code falls in line with the project objectives.",
+                "Design database architecture.",
+                "Enforce software best practices, standards and processes.",
+                "Identifying and resolving immediate and potential issues with applications.",
+                "Ensure our applications are secure and up-to-date.",
+                "Executing and implementing software tests.",
+                "Developing quality assurance procedures.",
+                "Documenting every part of the development process for assistance."
+            ],
+            "Required Skills": [
+                "Excellent in core java with sound knowledge of Java 8, Java 11.",
+                "Good knowledge of spring mvc and spring boot and its components.",
+                "Good knowledge of data structures and algorithms.",
+                "Should have a good knowledge of Hibernate , JPA.",
+                "Experience with testing artifacts like Unit Testing(Junit)/TDD/BDD.",
+                "Experience in working with MySQL or PostgresQL or both.",
+                "Ability to learn new software and technologies quickly.",
+                "Good knowledge of git with experience on platforms like gitlab or github or bitbucket.",
+                "Hands on with Linux commands.",
+                "Should have a good knowledge of developing and integrating Restful web services using spring boot.",
+                "Highly motivated and ability to motivate others.",
+                "Interpersonal skills.",
+                "Problem solving skills.",
+                "Strong communication skills.",
+                "Persuasion skills.",
+                "Negotiation skills.",
+                "Flexible to changes.",
+                "Ability to work in team.",
+                "Ability to adapt.",
+                "Proactive initiation."
+            ],
+            "Career Benefits": [
+                "Competitive Salaries",
+                "Employee Provident Fund",
+                "Communication Allowance",
+                "Accidental & Medical Insurance",
+                "Leave Encashment",
+                "Festival Allowance",
+                "Fuel Allowance",
+                "Vehicle Repair and Maintenance Allowance",
+                "Laptop Allowance",
+                "Paid Holidays: Annual Leave & Sick Leave",
+                "5 Working Days",
+                "Candidates Referral Reward Program",
+                "Product Trainings",
+                "Career Development Trainings"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23ID012",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": ".NET Developer",
+        "issueDate": "2024-01-13 14:20",
+        "expDate": "2024-01-15",
+        "apply": "https://infodev.com.np/career/206/SoftwareDevelopment/.NET-Developer-vacancy",
+        "jobDescription": [
+          {
+            "Qualification & Experience": [
+                "Bachelor of Engineering in Computer/IT or equivalent degree in Computer related studies.",
+                "2 years and above."
+            ],
+            "Job Description": [
+                "Participate in requirements analysis.",
+                "Write clean, scalable code using .NET programming languages.",
+                "Test and deploy applications and systems.",
+                "Revise, update, refactor and debug code.",
+                "Improve existing software.",
+                "Develop documentation throughout the software development life cycle (SDLC).",
+                "Serve as an expert on applications and provide technical support.",
+                "Strong knowledge of documents.",
+                "Collaborate with internal teams to produce software design and architecture."
+            ],
+            "Required Skills": [
+                "Experienced in using C#, ASP.NET WebForms & .NET Framework 4.5 or above.",
+                "Strong knowledge of ADO.NET and familiar with LINQ.",
+                "Strong knowledge of front-end development using KnockoutJS, Javascript, Jquery, Html, CSS, Bootstrap.",
+                "Strong knowledge of Relational Databases MS SQL, Complex Query Writing & ORM technologies6) Strong knowledge of web Service (RESTful).",
+                "Professionalism with excellent time management skills.",
+                "Ability to prioritize workload.",
+                "Attention to details and Quick learning ability.",
+                "Ability to work independently.",
+                "Persuasive in both communication, presentation and facilitation skills.",
+                "Leadership skills.",
+                "Ability to deliver on tight schedules with minimal supervision.",
+                "Ability to manage and influence virtual teams.",
+                "Strong Interpersonal and problem solving skills."
+            ],
+            "Other Specification": [
+                "Strong theoretical and practical knowledge of object-oriented programming.",
+                "Familiarity with Report Viewer is a plus.",
+                "Strong knowledge of documentation9) Excellent verbal and written communication."
+            ],
+            "Career Benefits": [
+                "Competitive Salaries",
+                "Employee Provident Fund",
+                "Communication Allowance",
+                "Accidental & Medical Insurance",
+                "Leave Encashment",
+                "Festival Allowance",
+                "Fuel Allowance",
+                "Vehicle Repair and Maintenance Allowance",
+                "Laptop Allowance",
+                "Paid Holidays: Annual Leave & Sick Leave",
+                "5 Working Days",
+                "Candidates Referral Reward Program",
+                "Product Trainings",
+                "Career Development Trainings"
+            ]
+          }
+        ]
       }
     ]
   }
