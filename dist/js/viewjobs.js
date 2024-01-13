@@ -124,7 +124,7 @@ fetch("/data/location.json")
                                        <p>${dataAbs.aboutCmp}</p>
                                     </div>
                                     <div class="jobview_foot">
-                                        <div class="apply_btn"><button id="apply_btn" href="${dataAbs.apply}">Apply on company site
+                                        <div class="apply_btn"><button id="apply_btn" href="${dataAbs.apply + "?refer=https://thejobsfy.com"}">Apply on company site
                                             <svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11" fill="none">
                                                 <mask id="path-1-inside-1_477_9" fill="white">
                                                 <path d="M0 2C0 1.44772 0.447715 1 1 1H9C9.55228 1 10 1.44772 10 2V10C10 10.5523 9.55228 11 9 11H1C0.447716 11 0 10.5523 0 10V2Z"/>

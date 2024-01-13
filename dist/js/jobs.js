@@ -733,7 +733,7 @@ const findJobs = (data) => {
                             </div>
                             <div class="job_tags flex"></div>
                             <div class="apply_btn">
-                                <button id="applyBtn" class="apply_btn" href="${obj.apply}">Apply on company site</button>
+                                <button id="applyBtn" class="apply_btn" href="${obj.apply + "?refer=https://thejobsfy.com"}">Apply on company site</button>
                             </div>
                         </div>
                         <div class="job_details">
