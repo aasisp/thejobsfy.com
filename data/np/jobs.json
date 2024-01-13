@@ -2439,6 +2439,24 @@
             ]
           }
         ]
+      },
+      {
+        "id": "23SUB04",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "IP-NOC Engineer - Senior",
+        "issueDate": "2024-01-13 13:10",
+        "expDate": "2024-1-20",
+        "apply": "https://career.subisu.net.np/recruitment/public/jobdetail/277?refer=https://thejobsfy.com",
+        "Location": "Baluwatar",
+        "jobDescription": [
+          {
+            "Job Responsibilities": ["Proactively monitor the International Link, Core, and Aggregation network for the swift identification and resolution of issues.", "Promptly respond to alerts and incidents, efficiently diagnosing and resolving technical issues. Elevate complex problems to higher-level support teams when necessary.", "Investigate and troubleshoot network-related issues, discerning the root cause and implementing effective solutions. Collaborate with other pertinent departments to address issues impacting network performance.", "Maintain meticulous documentation of network configurations, incidents, and resolutions. Regularly update knowledge base articles for expedited issue resolution. Generate periodic reports on network performance, incidents, and resolutions for management, offering insights into trends and areas for improvement.", "Manage and configure network devices, encompassing routers and switches.", "Analyze network performance data to pinpoint areas for improvement and implement optimizations. Engage in advanced capacity planning to ensure the network can adeptly handle current and future demands.", "NOC Engineers often operate in a 24/7 environment and may be required to work in shifts, including nights and weekends.", "Serve as a point of contact during emergency situations, coordinating response efforts and effectively communicating with relevant stakeholders.", "Bachelor Completed in IT related field from any recognized University", "Minimum 2-4 years of experience as a Network Administrator in ISP."],
+            "Required Knowledge and Skills": ["CCNP/ CCNA / JNCI-SP / JNCIA  or equivalent certified candidate will be preferred", "Must be familiar with standard technology, concepts, practices and procedures required within an ISP", "Strong analytics and troubleshooting skills;", "Should be a team player", "Good Knowledge of CWDM / DWDM Networks", "Good Knowledge of scripting."]
+          }
+        ]
       }
     ]
   },
