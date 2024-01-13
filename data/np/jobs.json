@@ -5714,6 +5714,67 @@
             ]
           }
         ]
+      },
+      {
+        "id": "23ID09",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Fullstack Developer (Java with React)",
+        "issueDate": "2024-01-13 13:25:00",
+        "expDate": "2024-01-15",
+        "apply": "https://infodev.com.np/career/277/SoftwareDevelopment/Fullstack-Developer-(Java-with-React)-vacancy",
+        "jobDescription": [
+          {
+            "Qualification & Experience": [
+                "Bachelor's Degree",
+                "Minimum of 3 + years of experience as a Java tech stack development."
+            ],
+            "Job Description": [
+                "Best Practices and Standards: Enforce software best practices, coding standards, and development processes within the team to maintain high-quality code.",
+                "Timely Solutions: Deliver solutions on time, meeting project/product deadlines and client expectations.",
+                "Problem-Solving Skills: Demonstrate strong analytical, debugging, and problem-solving skills, addressing complex issues efficiently.",
+                "Collaboration: Cooperate closely with other team members, including developers, designers, system and business analysts, to coordinate efforts and achieve project goals.",
+                "Architectural Breakdown: Decompose the architected solution into smaller, achievable tasks, allowing for efficient development and project management.",
+                "Support and Documentation: Offer support to the development team and produce clear and concise documentation to facilitate the understanding and maintenance of the software.",
+                "Soft Skills: Strong communication and interpersonal skills, with the ability to collaborate effectively with cross-functional teams.",
+                "Updated: Stay up to date with emerging trends and technologies in software development, continuously improving your skills and knowledge."
+            ],
+            "Required Skills": [
+                "Qualifications and Skills: To excel in this role, you should possess the following qualifications and skills.",
+                "Experience: Minimum of 3 + years of experience as a Java tech stack development.",
+                "Technical Expertise: Proficiency in Core JAVA (Java Version 1.8 or Higher), Spring, and Spring Boot Frameworks.",
+                "Design Pattern: Strong understanding of Object-Oriented Programming and Good understanding of design patterns, including Creational, Structural, and Behavioral patterns and experience of implementation of those approaches.",
+                "SOLID Principles: Good understanding and implementation of SOLID principles.",
+                "Microservices: Hands-on experience working with Microservices architecture.",
+                "ORM Tools and Data structures: Experience with ORM tools like Hibernate and JPA. Strong knowledge of data structures and algorithms.",
+                "RESTful Web Services: A good understanding of developing and integrating Restful web services using Spring Boot.",
+                "Database Experience: Experience developing enterprise applications with proven enterprise experience level with RDBMS and SQL (Oracle and/or Microsoft SQL Server / MySQL / PostgreSQL). Experience with NoSQL databases is an advantage.",
+                "Linux: Familiarity with Linux commands.",
+                "Version Control: Proficiency with Git and experience with platforms like GitLab, GitHub, or Bitbucket.",
+                "Message Brokers: Good knowledge of message brokers like RabbitMQ or Kafka is an advantage.",
+                "Cloud Technologies: Understanding of any cloud technologies like AWS or GCP would be an added advantage.",
+                "Agile Development: Experience with Agile development practices, including Continuous Integration and Continuous Delivery (CI/CD). Familiarity with technologies such as GIT, Maven, Jenkins, Kubernetes, Sonar lint, SonarQube, andJunit."
+            ],
+            "Career Benefits": [
+                "Competitive Salaries",
+                "Employee Provident Fund",
+                "Communication Allowance",
+                "Accidental & Medical Insurance",
+                "Leave Encashment",
+                "Festival Allowance",
+                "Fuel Allowance",
+                "Vehicle Repair and Maintenance Allowance",
+                "Laptop Allowance",
+                "Paid Holidays: Annual Leave & Sick Leave",
+                "5 Working Days",
+                "Candidates Referral Reward Program",
+                "Product Trainings",
+                "Career Development Trainings"
+            ]
+          }
+        ]
       }
     ]
   }
