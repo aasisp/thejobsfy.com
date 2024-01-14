@@ -1,2 +1,2 @@
 # thejobsfy.com
- Static job portal
+URL https://thejobsfy.com
