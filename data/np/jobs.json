@@ -2315,6 +2315,54 @@
             ]
           }
         ]
+      },
+      {
+        "id": "23CT014",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Network Engineer",
+        "issueDate": "2024-01-14 14:8:00",
+        "apply": "https://www.classic.com.np/career/",
+        "jobDescription": [
+          {
+            "Job Specification": ["Bachelor’s degree in Information technology or relevant work experience.", "Minimum two years of experience in a similar role.", "CCNA/JNCIA certification will be given preference.", "knowledge of OSI Model, IP addressing, subnetting, VLAN, and routing", "Experience with Spanning Tree, OSPF, BGP, MPLS, and VPN technologies.", "Experience with Cisco Juniper and Mikrotik routers, layer 2 and layer 3 switches.", "Should have experience in ISP GPON/EPON or Fiber to the Home (FTTH) technology.", "Advanced experience with packet capture & analysis and network monitoring tools.", "Must have knowledge of services required for a network operator.", "Good communication skill is required."]
+          }
+        ]
+      },
+      {
+        "id": "23CT015",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Android / IOS Developer",
+        "issueDate": "2024-01-14 14:15:00",
+        "apply": "https://www.classic.com.np/career/",
+        "jobDescription": [
+          {
+            "Job Responsibilites": ["Designing, implementing, and testing features for our mobile applications", "Integrating with backend services to deliver a secure, fast, and scalable mobile user experience", "Working in an experienced and knowledgeable team, in an Agile environment", "Report progress and status of assigned tasks to project teams and managers", "Collaborate with team members for problem-solving, bug fixes, new feature implementations, work planning, and code demonstrations", "Assist with team-wide validation of functional correctness, architectural compliance, and adherence to applicable industry standards", "Have deep knowledge and understanding of Android/IOS and proven commercial experience", "Must have at least 2+ years of experience in Android/IOS app development."],
+            "Specifications": ["Extensive experience building mobile apps", "Experience in native Android/iOS development (Swift, Kotlin, Java)", "Should have a working knowledge of the general mobile landscape, architectures, trends, and emerging technologies", "Comfortable building and styling complex screens", "Published one or more Android/iOS apps in the Google Play Store/App Store", "Familiar with RESTful APIs", "Solid understanding of the full mobile development lifecycle", "Familiar with testing frameworks", "Familiar with networking, reactive programming, dependency injection libraries for example Retrofit, Dagger, Alamofire, Pod, RxJava, Coroutine", "Familiar with Git source control and agile workflows", "Familiar with app store deployment and review process."]
+          }
+        ]
+      },
+      {
+        "id": "23CT016",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "PHP Developer",
+        "issueDate": "2024-01-14 14:25:00",
+        "apply": "https://www.classic.com.np/career/",
+        "jobDescription": [
+          {
+            "Job Responsibilites": ["Develop new features and functionality for high transaction, large scale project", "Identify and address performance bottlenecks in the software", "Integrate REST/SOAP API with/without 3rd parties", "Suggest ideas, maintain and improve the performance of existing software", "Working in an experienced and knowledgeable team, in an Agile environment", "Report progress and status of assigned tasks to project teams and managers", "Collaborate with team members for problem-solving, bug fixes, new feature implementations, work planning, and code demonstrations."],
+            "Mid Level Specifications": ["Minimum of 2 years experience in relevant field", "A strong background in OOP Development", "Experience in core PHP / or framework like CodeIgniter, Laravel", "Any relational database management software like MySql, PostgreSQL", "Understanding of Front-end technologies, such as JavaScript, HTML5, and CSS3", "Knowledge of React JS, Node JS would be an added advantage", "Functional knowledge and hands-on experience with common third-party APIs and web services (REST/JSON/SOAP).", "Debug, update, and refactor existing codes", "Deep understanding of large systems, complex code bases, and version control systems such as Git", "Good communicational skills", "Can work well within team dynamics."],
+            "Senior Level Specifications": ["Minimum of 4 years experience in relevant field", "Strong Knowledge of Core PHP, Web Frameworks (CodeIgniter, Laravel), and OOP", "Experience with HTML, CSS, Javascript, and/or other Front-end Frameworks", "Strong Knowledge of SQL/MySQL databases, API’s and their declarative query languages", "Creating database schemas that represent and support business workflow", "Strong Knowledge of web services (REST, SOAP) and data formats like XML/JSON.", "Proficient in code versioning tools, such as Git", "Experience with debugging, and optimization", "Excellent interpersonal and communicational skills", "Good analytical and problem-solving abilities", "Can work well within team dynamics."]
+          }
+        ]
       }
     ]
   },
