@@ -3455,6 +3455,41 @@
             ]
           }
         ]
+      },
+      {
+        "id": "23DH017",
+        "no": "2",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "DOT NET Developer",
+        "issueDate": "2024-1-15 13:30",
+        "jobLocation": "Chyasikot, Lalitpur",
+        "apply": "https://www.dishhome.com.np/company/careers",
+        "jobDescription": [
+          {
+            "Job Description": [
+              "Design, plan and review system architecture, and end-to-end deployment and maintenance of IPTV network.",
+              "Manage TV platforms and services involving IP networking, networking services, content encryption, middleware systems and service management.",
+              "Maintain IPTV monitoring system and related Network Management System (NMS)",
+              "Create, modify and cease channels and product packages according to specifications and requirement.",
+              "Troubleshoot, analyze, register/ log and follow-up on all technical issues.",
+              "Test and stage various operating platforms.",
+              "Support the deployment of new technologies and systems.",
+              "Evaluate and optimize escalation workflow of support chain.",
+              "Perform rotating standby duties."
+            ],
+            "Job specification:": [
+              "Bachelor's degree in Electronics & Communication Engineering/ IT / Computer Science",
+              "2-4 years of experience in IPTV domain",
+              "General understanding of database management systems, Client/ Server Architecture, LAN/ WAN, Architecture, Cyber Security (e.g., Firewalls, Virtual Private Network and Public Key Infrastructure) and operating systems. SQL/ Oracle / Linux certifications.",
+              "Knowledge of digital media streaming protocols and digital entertainment applications will be an added advantage.",
+              "Commercial experience in implementing software solutions on UNIX and Linux platforms is highly preferred.",
+              "Ability to interact with diverse customers in a multi-cultural environment.",
+              "Strong verbal and written communication skills."
+            ]
+          }
+        ]
       }
     ]
   },
