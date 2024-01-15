@@ -2831,7 +2831,25 @@
       "site": "https://www.dishhome.com.np/",
       "fb": "dishhome"
     },
-    "intership": [],
+    "intership": [
+        {
+            "id": "23DHINS00",
+            "no": "2",
+            "tags": [
+              "Full-time"
+            ],
+            "position": "IT Support Intern",
+            "issueDate": "2024-1-15 13:40",
+            "jobLocation": "Chyasikot, Lalitpur",
+            "apply": "https://www.dishhome.com.np/company/careers",
+            "jobDescription": [
+              {
+                "Job Description": ["Provide technical assistance and support to end users for computer systems, software and hardware issues", "Install, configure and update software applications on end-user devices along with CCTV and attendance devices along with CCTV, attendance devices.", "Repair, setup and maintain of PC hardware and software", "Troubleshoot network and system issues within the office."],
+                "Job specification:": ["Bachelor running or complete in related field", "CCNA certification preferred", "Knowledge of computer hardware and software", "Knowledge of Networking."]
+              }
+            ]
+          }
+    ],
     "jobOpening": [
       {
         "id": "23DH00",
@@ -3487,6 +3505,40 @@
           {
             "Job Description": ["Install, patch and maintain Database software", "Tune all database instance components including SQL, TSQL and PL/SQL", "Database design.", "Control access permissions and privileges", "Develop, manage and test back-up and recovery plans", "Implementation of HA Environment.", "Responsible to keep the databases up and running smoothly."],
             "Job specification:": ["Graduate in Computer Science / Information Technology or equivalent from any recognized university.", "2 Years of work experience of handling databases in Oracle & MSSQL.", "Oracle Certification, preferably OCA.", "Strong IT Skills as well as creative & analytical skill.", "Smart, Flexible and Positive attitude with willingness to learn and can do attitude."]          }
+        ]
+      },
+      {
+        "id": "23DH019",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "IT Security Engineer",
+        "issueDate": "2024-1-15 13:38",
+        "jobLocation": "Chyasikot, Lalitpur",
+        "apply": "https://www.dishhome.com.np/company/careers",
+        "jobDescription": [
+          {
+            "Job Description": ["Install, configure and upgrade security software.", "Conduct regular security Tests on Networks and Applications.", "Secure networks through firewalls, password protection and other systems.", "Designing and implementing security networks and protocols.", "Inspecting and upgrading hardware to avoid vulnerability points.", "Analyze Security Policies.", "Running penetration tests on upgraded systems.", "Responsible for monitoring sources that identify zero-day threats and work to protect from them", "Perform ad-hoc IT risk assessments as required.", "Training staff on security protocols.", "Act on privacy breaches and malware threats.", "Write Security Assessment Reports."],
+            "Job specification:": ["A Bachelor’s degree (or more) in Computer Science and Engineering, Information Technology or equivalent.", "Minimum 4 years of previous work experience as a Network/Security Engineer", "Experience in Networking, Systems/Security Administration", "Knowledge and understanding of key networking hardware (including CPUs, wiring, and routers)", "Knowledge of communication and routing protocols.", "Familiarity with network analysis tools such as SolarWinds, Nagios, Cacti, etc.", "Team mentoring and communications.", "Detailed knowledge of IT Security concepts", "At least CCNA (Security) or Equivalent Professional Certification. Familiar with Cisco, Huawei, Fortigate, CheckPoint, PaloAlto and other major brands.", "Good understanding on deployment of WAF, SIEM, Load Balancer, DNS Failover.", "Operations experience in a variety of endpoint security technologies such as DLP (Forcepoint, Digital Guardian, MS 365 Compliance DLP), AV (Palo Alto IPS / IDS and Traps / Cortex) Anti malware protection.", "Familiar with ITIL frameworks, SOC 2, ISO 27001 standard.", "HCIA/CCNA/RHCE is preferred."]          
+          }
+        ]
+      },
+      {
+        "id": "23DH020",
+        "no": "1",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "IT Security Engineer",
+        "issueDate": "2024-1-15 13:38",
+        "jobLocation": "Chyasikot, Lalitpur",
+        "apply": "https://www.dishhome.com.np/company/careers",
+        "jobDescription": [
+          {
+            "Job Description": ["Install, configure and upgrade security software.", "Conduct regular security Tests on Networks and Applications.", "Secure networks through firewalls, password protection and other systems.", "Designing and implementing security networks and protocols.", "Inspecting and upgrading hardware to avoid vulnerability points.", "Analyze Security Policies.", "Running penetration tests on upgraded systems.", "Responsible for monitoring sources that identify zero-day threats and work to protect from them", "Perform ad-hoc IT risk assessments as required.", "Training staff on security protocols.", "Act on privacy breaches and malware threats.", "Write Security Assessment Reports."],
+            "Job specification:": ["A Bachelor’s degree (or more) in Computer Science and Engineering, Information Technology or equivalent.", "Minimum 4 years of previous work experience as a Network/Security Engineer", "Experience in Networking, Systems/Security Administration", "Knowledge and understanding of key networking hardware (including CPUs, wiring, and routers)", "Knowledge of communication and routing protocols.", "Familiarity with network analysis tools such as SolarWinds, Nagios, Cacti, etc.", "Team mentoring and communications.", "Detailed knowledge of IT Security concepts", "At least CCNA (Security) or Equivalent Professional Certification. Familiar with Cisco, Huawei, Fortigate, CheckPoint, PaloAlto and other major brands.", "Good understanding on deployment of WAF, SIEM, Load Balancer, DNS Failover.", "Operations experience in a variety of endpoint security technologies such as DLP (Forcepoint, Digital Guardian, MS 365 Compliance DLP), AV (Palo Alto IPS / IDS and Traps / Cortex) Anti malware protection.", "Familiar with ITIL frameworks, SOC 2, ISO 27001 standard.", "HCIA/CCNA/RHCE is preferred."]          
+          }
         ]
       }
     ]
