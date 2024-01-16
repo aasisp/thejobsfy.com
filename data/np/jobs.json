@@ -6179,5 +6179,41 @@
         ]
       }
     ]
-  }
+  },
+  {
+    "cmpId": "19",
+    "cmpName": "PrabhuPay",
+    "industry": "Fintech",
+    "hQLocation": "Kamaladi, Kathmandu",
+    "aboutCmp": "PrabhuPAY App allows its users to simplify the payment process. With this App, the consumers can easily make payments for the goods purchased and services rendered. Quick recharge and easy payment of various utility bills makes this App more users friendly and on top of that consumers can also transfer the small value fund to the consumers within PrabhuPay network.",
+    "img": {
+      "logo": "/dist/img/cmp/PrabhuPay_logo.png",
+      "coverImg": ""
+    },
+    "links": {
+      "site": "https://prabhupay.com/",
+      "fb": "Prabhupay1",
+      "tw": "PayPrabhu",
+      "yt": "UC6Pc_aQyIqA3LGtkqUBjzBQ"
+    },
+    "intership": [],
+    "jobOpening": [
+      {
+        "id": "24PPAY00",
+        "no": "4",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Mid Level .Net Developer",
+        "issueDate": "2024-01-16 14:00",
+        "apply": "https://prabhupay.com/jobDescription.php?n=1",
+        "jobDescription": [
+          {
+            "Responsibilities": ["Collaborate with internal teams to produce software design and architecture.", "Write clean, scalable code using .NET programming languages.", "Test and deploy applications and systems.", "Revise, update, refactor and debug code.", "Improve existing software.", "Serve as an expert on applications and provide technical support.", "Develop documentation throughout the software development life cycle (SDLC)."],
+            "Requirement": ["Bachelor’s degree in Computer Science (or equivalent).", "Minimum 2 years of experience.", "Experience in web applications, web services using .NET, MVC, C#, HTML, REST, JavaScript, Bootstrap, CSS.", "Knowledge and understanding of how to create and maintain database, stored procedures, database functions using MSSQL.", "Familiarity with TSQL/SQL and ability to fully understand coding solutions that talk to MSSQL server.", "Exposure to Agile/Scrum methodology of project execution will be an added advantage.", "Ability to write clean, scalable code using agreed-upon standards and tools.", "Excellent analytical, troubleshooting and problem solving skills.", "Demonstrated experience working with confidential, sensitive and secure information", "Ability to cope under high demand, handle multiple priorities, projects and tasks and meet tight deadlines.", "Experience with HTML technologies including HTML, CSS and AJAX."]
+          }
+        ]
+      }
+    ]
+    }
 ]
