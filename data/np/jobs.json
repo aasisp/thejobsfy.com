@@ -6177,6 +6177,76 @@
             ]
           }
         ]
+      },
+      {
+        "id": "23ID013",
+        "no": "4",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "Senior QA Engineer",
+        "issueDate": "2024-01-17 13:20",
+        "expDate": "2024-01-30",
+        "apply": "https://infodev.com.np/career/117/SoftwareDevelopment/Senior-QA-Engineer-vacancy",
+        "jobDescription": [
+          {
+            "Qualification & Experience": ["Bachelors in Computer Science/Engineering/IT/IM/CSIT/Computing", "3+ years of experience as a QA."],
+            "Job Description": ["Test Documentation: Prepare detailed test documentation, including test plans, test cases, and test suites, to outline comprehensive testing strategies. ", "Defect Analysis: Analyze software defects and report them with precision and clarity, ensuring accurate and timely defect tracking. ", "Testing Methodologies: Conduct various types of testing, including GUI, Smoke, functional, regression, and browser compatibility testing. ", "SDLC Knowledge: Possess a strong understanding of Agile and Waterfall models of Software Development Life Cycle (SDLC). ", "Performance Testing: Perform load and stress testing using tools such as JMeter and other relevant resources. ", "API Testing: Conduct API testing to validate the functionality and reliability of software APIs. ", "Automation Scripting: Prepare, maintain, and execute automation scripts to improve testing efficiency. ", "Security and Vulnerability Assessment: Perform security and vulnerability assessments of both mobile and web applications, utilizing tools like Burp Suite, ZAP, and knowledge of OWASP top 10 vulnerabilities. ", "Database Proficiency: Have a good understanding of Relational Database Management System (RDBMS) fundamentals and the ability to write SQL queries for testing purposes. ", "API Automation: Knowledge of automating APIs for testing purposes. ", "Documentation Maintenance: Maintain test documentation, including bug reports, User Acceptance Testing (UAT) reports, and Release reports, as required by the project. ", "Process Optimization: Continuously optimize and improve the software testing process to enhance efficiency and effectiveness. ", "Automation Using Cypress: Possess strong knowledge of automation using Cypress to ensure efficient and effective test automation. ", "Programming Skills: Have a good understanding of at least one programming language to support test automation. ", "CI/CD Integration: Knowledge and ability to integrate automated scripts into Continuous Integration/Continuous Deployment (CI/CD) environments. ", "Specification Analysis: Analyze product and process specifications and procedures to ensure the software meets the defined criteria."],
+            "Required Skills": ["Knowledge of API testing.", "Basic knowledge in SQL.", "Implementation of the bug tracking tools.", "Programming skills for automation testing.", "Understanding and analytics in business intelligence.", "Highly motivated.", "Flexible to changes.", "Ability to work in team.", "Ability to adapt.", "Proactive in nature."],
+            "Other Specification": ["Bachelor's degree in computer science, Information Technology, or a related field. ", "Proven experience in software testing and quality assurance. ", "Strong analytical and problem-solving skills. ", "Excellent communication and reporting skills. ", "Self-motivated and able to work independently and as part of a team. ", "Attention to detail and commitment to delivering high-quality software."],
+            "Career Benefits": [
+                "Competitive Salaries",
+                "Employee Provident Fund",
+                "Communication Allowance",
+                "Accidental & Medical Insurance",
+                "Leave Encashment",
+                "Festival Allowance",
+                "Fuel Allowance",
+                "Vehicle Repair and Maintenance Allowance",
+                "Laptop Allowance",
+                "Paid Holidays: Annual Leave & Sick Leave",
+                "5 Working Days",
+                "Candidates Referral Reward Program",
+                "Product Trainings",
+                "Career Development Trainings"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23ID014",
+        "no": "2",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "PHP Developer",
+        "issueDate": "2024-01-17 13:30",
+        "expDate": "2024-01-30",
+        "apply": "https://infodev.com.np/career/57/SoftwareDevelopment/PHP-Developer-vacancy",
+        "jobDescription": [
+          {
+            "Qualification & Experience": ["Bachelor's completed in relevant field", "2 years of experience."],
+            "Job Description": ["Design, code and maintain efficient and reliable PHP Code.", "Build innovative, state-of-the-art applications and collaborate with the User Experience (UX) team. ", "Debug, update and refactor already exiting code. ", "Involve in all stages of development life cycle.", "Active participation in all project level discussion and meetings. ", "Involve in direct communication with team lead and client if required. ", "Prepare Use Case, Flow and ER Diagram when needed Duties & Responsibilities.", "Study, Analyze and debug PHP Application. ", "Collaborate with the team to define, design and integrate new features. ", "Quickly produce well organized, optimized, and documented source code. ", "Integrate Rest/Soap API with/without 3rd Parties. ", "Develop, deliver and test software prototypes. ", "Work independently when required.", "Coordinate with the Team leader on current programming tasks."],
+            "Required Skills": ["Have good understanding of full stack development in LAMP stack. ", "Good experience with OOP and passion for writing clean code. ", "Strong knowledge of the common PHP or web server exploits and their solutions. ", "Understanding fundamental design principles behind a scalable application and APIs. ", "User authentication and authorization between multiple systems, servers, and environments. ", "Integration of multiple data sources and databases into one system. ", "Familiarity with limitations of PHP as a platform and its workarounds. ", "OOP, Codeignitor.", "Laravel, MVC, MySQL.", "EloquentORM,Rest/Soap API.", "GIT, Jquery, Javascript Framework (If any)."],
+            "Other Specification": ["Professionalism with excellent time management skills. ", "Ability to prioritize workload. ", "Attention to details and Quick learning ability.", "Ability to work independently. ", "Persuasive in both communication, presentation and facilitation skills.", "Leadership skills. ", "Ability to deliver on tight schedules with minimal supervision. ", "Ability to manage and influence virtual teams. ", "Strong Interpersonal and problem-solving skills."],
+            "Career Benefits": [
+                "Competitive Salaries",
+                "Employee Provident Fund",
+                "Communication Allowance",
+                "Accidental & Medical Insurance",
+                "Leave Encashment",
+                "Festival Allowance",
+                "Fuel Allowance",
+                "Vehicle Repair and Maintenance Allowance",
+                "Laptop Allowance",
+                "Paid Holidays: Annual Leave & Sick Leave",
+                "5 Working Days",
+                "Candidates Referral Reward Program",
+                "Product Trainings",
+                "Career Development Trainings"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -6247,5 +6317,5 @@
         ]
       }
     ]
-    }
+  }
 ]
