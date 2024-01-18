@@ -1426,25 +1426,7 @@
       "site": "https://worldlink.com.np/",
       "fb": "wlink.np"
     },
-    "intership": [
-        {
-            "id": "23WLCINS00",
-            "no": "2",
-            "tags": [
-              "Full-time"
-            ],
-            "position": "HR Intern",
-            "issueDate": "2024-01-18 21:25",
-            "expDate": "2024-01-24",
-            "apply": "https://worldlink.com.np/career/hr-intern/",
-            "jobDescription": [
-              {
-                "Job Description": ["Engage in daily HR Operations tasks to ensure seamless workflow.", "Engage in creating eye-catching visuals for our online platforms, including posters, banners, and graphics.", "Oversee attendance management, ensuring accurate recording of staff attendance.", "Examine and validate overtime claims, facilitating clearance processes for departing staff.", "Prepare and disseminate various official staff-related documents.", "Maintain HR files and databases, conducting audits to uphold proper employee documentation standards."],
-                "Job Specification": ["Sound Knowledge in MS Office is preferred.", "Knowledge of Photoshop & Canva is preferred.", "Familiarity with Human Resources Information Systems (HRIS) is preferred.", "Basic knowledge of the Labor Act of Nepal.", "Freshers are encouraged to apply."]
-              }
-            ]
-          }
-    ],
+    "intership": [],
     "jobOpening": [
       {
         "id": "23WLC00",
@@ -1755,6 +1737,23 @@
           {
             "Job Description": ["Responding to internal and external HR-related inquiries or requests and providing assistance", "Redirecting HR-related calls or distributing correspondence to the appropriate person in the team", "Maintaining records of personnel-related data in both paper and the database and ensuring all employment requirements are met", "Maintain records of personnel-related data (payroll, personal information, leaves, turnover rates etc.) in both paper and the database and ensure all employment requirements are met.", "Liaise with other departments or functions (payroll, benefits etc.)", "Support the recruitment/hiring process by sourcing candidates, performing background checks, assisting in shortlisting, issuing employment contracts etc.", "Assist supervisors in performance management procedures", "Schedule meetings, interviews, HR events etc. and maintain the team’s agenda", "Coordinate training sessions and seminars", "Perform orientations, onboarding and update records with new hires", "Produce and submit reports on general HR activity", "Assist in ad-hoc HR projects, like collection of employee feedback", "Support other functions as assigned."],
             "Job Specification": ["Graduate with a minimum of 1 year of professional experience in relevant human resources/administrative positions in service.", "Knowledge of human resources processes and best practices.", "Strong ability in using MS Office software. (MS Excel and MS PowerPoint etc etc )", "Experience with HR databases and HRIS systems.", "Ability to work on high-pressure", "In-depth understanding of sourcing tools, like resume databases and online communities", "Outstanding communication and interpersonal skills", "Having a pleasant personality, positive attitude and a good team player.", "Owning a vehicle and driving a license is highly preferred."]                
+          }
+        ]
+      },
+      {
+        "id": "23WLC011",
+        "no": "2",
+        "tags": [
+          "Full-time"
+        ],
+        "position": "HR Intern",
+        "issueDate": "2024-01-18 21:25",
+        "expDate": "2024-01-24",
+        "apply": "https://worldlink.com.np/career/hr-intern/",
+        "jobDescription": [
+          {
+            "Job Description": ["Engage in daily HR Operations tasks to ensure seamless workflow.", "Engage in creating eye-catching visuals for our online platforms, including posters, banners, and graphics.", "Oversee attendance management, ensuring accurate recording of staff attendance.", "Examine and validate overtime claims, facilitating clearance processes for departing staff.", "Prepare and disseminate various official staff-related documents.", "Maintain HR files and databases, conducting audits to uphold proper employee documentation standards."],
+            "Job Specification": ["Sound Knowledge in MS Office is preferred.", "Knowledge of Photoshop & Canva is preferred.", "Familiarity with Human Resources Information Systems (HRIS) is preferred.", "Basic knowledge of the Labor Act of Nepal.", "Freshers are encouraged to apply."]
           }
         ]
       }
