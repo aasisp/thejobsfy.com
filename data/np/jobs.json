@@ -628,33 +628,7 @@
       "site": "https://khalti.com/",
       "fb": ""
     },
-    "intership": [
-      {
-        "id": "23KH00IN",
-        "no": "1",
-        "tags": [
-          "Intership"
-        ],
-        "position": "Marketing & Customer Support Intern",
-        "issueDate": "2023-07-23",
-        "apply": "https://blog.khalti.com/career-job/marketing-customer-support-intern/",
-        "jobDescription": [
-          {
-            "About the role": [
-              "Calling customers.",
-              "Informing them regarding giving offers, and campaigns.",
-              "Solving customer issues and in case of any.",
-              "Involvement in BTL activities.",
-              "Dealing with customers face to face to promote Khalti in clients’ specified areas."
-            ],
-            "Responsibilities": [
-              "Making call to customers",
-              "Actively involving in BTL activities"
-            ]
-          }
-        ]
-      }
-    ],
+    "intership": [],
     "jobOpening": [
       {
         "id": "23KH00",
@@ -1406,6 +1380,31 @@
             "Responsibilities": ["Greet and welcome guests as soon as they arrive at the office", "Direct visitors to the appropriate person and building", "Answer, screen, and forward incoming phone calls", "Ensure the reception area is tidy and presentable, with all necessary stationery and material (e.g. pens, forms, and brochures)", "Provide basic and accurate information in person and via phone/email", "Receive, sort, and distribute daily mail/deliveries and bills to the finance department", "Order front office supplies and keep an inventory of stock", "Update calendars and schedule meetings and interviews", "Keep updated records of canteen expenses and costs", "Perform other clerical receptionist duties such as filing, photocopying, transcribing, and others", "Coordinate back and forth with HR and Admin department as when required"
             ],
             "Requirements and skills": ["Proven work experience as a Receptionist, Front Office Representative or similar role", "Proficiency in Microsoft Office Suite", "Hands-on experience with office equipment (e.g scanners and printers)", "Professional attitude and appearance", "Solid written and verbal communication skills", "Ability to be resourceful and proactive when issues arise", "Excellent organizational and coordination skills", "Multitasking and time-management skills, with the ability to prioritize tasks", "Customer service attitude"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23KH021",
+        "no": "1",
+        "tags": [
+          "Intership"
+        ],
+        "position": "Marketing & Customer Support Intern",
+        "issueDate": "2023-07-23",
+        "apply": "https://blog.khalti.com/career-job/marketing-customer-support-intern/",
+        "jobDescription": [
+          {
+            "About the role": [
+              "Calling customers.",
+              "Informing them regarding giving offers, and campaigns.",
+              "Solving customer issues and in case of any.",
+              "Involvement in BTL activities.",
+              "Dealing with customers face to face to promote Khalti in clients’ specified areas."
+            ],
+            "Responsibilities": [
+              "Making call to customers",
+              "Actively involving in BTL activities"
             ]
           }
         ]
