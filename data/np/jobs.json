@@ -6889,6 +6889,44 @@
                         ]
                     }
                 ]
+            },
+            {
+                "id": "23ID015",
+                "no": "2",
+                "tags": [
+                    "Full-time"
+                ],
+                "position": ".NET Team Lead",
+                "issueDate": "2024-01-24 21:35",
+                "expDate": "2024-01-30",
+                "apply": "https://infodev.com.np/career/206/SoftwareDevelopment/.NET-Team-Lead-vacancy",
+                "jobDescription": [
+                    {
+                        "Qualification & Experience": [
+                            "Bachelor of Engineering in Computer/IT or equivalent degree in Computer related studies",
+                            "5 years and above"
+                        ],
+                        "Job Description": ["Implement the best practices and coding standards.", "Prepare and help team to prepare the design and prepare technical architecture, keep yourself updated on the new standards on design and architecture.", "Active coordination with other different role areas like Planning, IT and QA department.", "Take responsibility of the overall sprint or iteration outcome, update sprint tracker with accurate information to identify the risk and issues proactively at the sprint level.", "Conduct project level risk identification and mitigation action planning with the Project Manager.", "Conduct code review and provide feedback.", "Constantly looking for ways to increase productivity of the team, always work towards the productivity by eliminating unproductive working hours and human resources.", "Help the Project Manager with people & technical management.", "Assist Project Manager in the project coordination/management", "Reporting all the weekly tasks in form of accurate and detailed reports to the reporting manager. Escalate the exceptional situations with alarms, explanations and solutions.", "Lead should be proactive, should avoid any surprises and should have written explanation for the same.", "Create and develop performance report, delivery method, scope of work, and general duties records.", "Go to clients for project briefing, consultation, installation and closeout reviews", "Help out in managing customer demands to ensure maximum satisfaction, and to maintain quality over quantity. Ensure deadlines at any cost.", "Train yourself to acquire more knowledge on technical and functional aspects that job demands. Remain knowledgeable of current technology and carry out research to identify new trends that can be used to achieve maximum results.", "Carry out other technical related duties that may be required along with training and mentoring the technical Team.", "Motivate team towards technical and other various documentations and ensure that the industry standard documentation is maintained and available at any point of time.", "Take necessary measures to avoid centralization of knowledge. There should not be any dependency in the project on anybody."],
+                        "Required Skills": ["Experienced in using C#, ASP.NET WebForms & .NET Framework 4.5 or above", "Strong knowledge of ADO.NET and familiar with LINQ", "Strong knowledge of front-end development using KnockoutJS, Javascript, Jquery, Html, CSS, Bootstrap", "Strong knowledge of Relational Databases MS SQL, Complex Query Writing & ORM technologies6) Strong knowledge of web Service (RESTful)", "Professionalism with excellent time management skills. ", "Ability to prioritize workload. ", "Attention to details and Quick learning ability. ", "Ability to work independently. ", "Persuasive in both communication, presentation and facilitation skills.", "Leadership skills. ", "Ability to deliver on tight schedules with minimal supervision. ", "Ability to manage and influence virtual teams. ", "Strong Interpersonal and problem solving skills."],
+                        "Other Specification": ["Masters/ Bachelors in related field (completed)", "3-4 yrs. in relevant field", "Interpersonal skills", "Specific Technical skills such as skills on C#, Asp.net, MVC, LINQ Lambda Expression, Ajax, WebForms, EF Core,TSQL, API", "Professionalism with excellent time management skills.", "Ability to prioritize workload.", "Attention to details and Quick learning ability", "Ability to work independently.", "Persuasive in both communication, presentation, leadership, and facilitation skills.", "Ability to deliver on tight schedules with minimal supervision.", "Ability to manage and influence virtual teams.", "Strong Interpersonal and problem solving skills."],
+                        "Career Benefits": [
+                            "Competitive Salaries",
+                            "Employee Provident Fund",
+                            "Communication Allowance",
+                            "Accidental & Medical Insurance",
+                            "Leave Encashment",
+                            "Festival Allowance",
+                            "Fuel Allowance",
+                            "Vehicle Repair and Maintenance Allowance",
+                            "Laptop Allowance",
+                            "Paid Holidays: Annual Leave & Sick Leave",
+                            "5 Working Days",
+                            "Candidates Referral Reward Program",
+                            "Product Trainings",
+                            "Career Development Trainings"
+                        ]
+                    }
+                ]
             }
         ]
     },
