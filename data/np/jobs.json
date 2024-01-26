@@ -5520,6 +5520,42 @@
                         "Requirements": ["Master’s degree in business, Finance, or related field; Chartered Accountant is preferred.", "Proven experience in risk management, compliance, and internal audit roles.", "In-depth knowledge of regulatory requirements and industry best practices.", "Strong leadership and collaboration skills to work effectively with diverse teams.", "Excellent analytical and problem-solving abilities.", "Exceptional communication skills for policy development and training programs.", "Experience in governance structures and committee collaboration."]
                     }
                 ]
+            },
+            {
+                "id": "23F1S02",
+                "no": "1",
+                "tags": [
+                    "Full-time"
+                ],
+                "position": "QA Engineer",
+                "issueDate": "2024-01-26 14:55",
+                "expDate": "2024-02-08",
+                "apply": "https://www.f1soft.com/career/FoneNxt-QA",
+                "jobDescription": [
+                    {
+                        "Job Description": "F1Soft Group has been building an ecosystem of digital products and services to enable Digital Financial Transformation. From its inception, F1Soft has been committed to making easier, faster, and more convenient digital financial solutions that can help end users feel more empowered and connected. With innovation and technology at the core of everything we do, our products and services can help take businesses to the next level. We believe in providing effective and efficient digital financial solutions that enable access to a digital economy. Mid QA Engineers is responsible to oversee the quality assurance team. They are required to oversee all aspects of software and product testing.",
+                        "Responsibilities": ["Create detailed, comprehensive and well-structured test plans and test cases", "Estimate, prioritize, plan and co-ordinate testing activities.", "Perform thorough regression testing when bugs are resolved.", "Ensure quality of product and product documentation.", "Analyse product requirements and system requirements.", "Discover bugs and report in bug tracking tool.", "Work in Scrum/Kanban team environment to size and plan the requirements.", "Research on new technology and techniques for continuous improvement of the products.", "Mentoring and sharing the knowledge with the teammates.", "Leadership and Management skills."],
+                        "Requirements": ["Bachelor’s degree in Computer Science, Computer Engineering or related technical discipline", "2 to 3 years of experience as a QA Engineer in Manual and Automation Testing.", "Hands on experience on Java, Spring Framework, Angular is most."]
+                    }
+                ]
+            },
+            {
+                "id": "23F1S03",
+                "no": "1",
+                "tags": [
+                    "Full-time"
+                ],
+                "position": "Senior Front-End Engineer (Angular)",
+                "issueDate": "2024-01-26 15:10",
+                "expDate": "2024-02-08",
+                "apply": "https://www.f1soft.com/career/FoneNxt-QA",
+                "jobDescription": [
+                    {
+                        "Job Description": "F1Soft Group has been building an ecosystem of digital products and services to enable Digital Financial Transformation. From its inception, F1Soft has been committed to making easier, faster, and more convenient digital financial solutions that can help end users feel more empowered and connected. With innovation and technology at the core of everything we do, our products and services can help take businesses to the next level. We believe in providing effective and efficient digital financial solutions that enable access to a digital economy. Mid QA Engineers is responsible to oversee the quality assurance team. They are required to oversee all aspects of software and product testing.",
+                        "Responsibilities": ["Create detailed, comprehensive and well-structured test plans and test cases", "Estimate, prioritize, plan and co-ordinate testing activities.", "Perform thorough regression testing when bugs are resolved.", "Ensure quality of product and product documentation.", "Analyse product requirements and system requirements.", "Discover bugs and report in bug tracking tool.", "Work in Scrum/Kanban team environment to size and plan the requirements.", "Research on new technology and techniques for continuous improvement of the products.", "Mentoring and sharing the knowledge with the teammates.", "Leadership and Management skills."],
+                        "Requirements": ["Bachelor’s degree in Computer Science, Computer Engineering or related technical discipline", "2 to 3 years of experience as a QA Engineer in Manual and Automation Testing.", "Hands on experience on Java, Spring Framework, Angular is most."]
+                    }
+                ]
             }
         ]
     },
