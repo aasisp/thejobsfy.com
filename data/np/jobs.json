@@ -5548,12 +5548,48 @@
                 "position": "Senior Front-End Engineer (Angular)",
                 "issueDate": "2024-01-26 15:10",
                 "expDate": "2024-02-08",
-                "apply": "https://www.f1soft.com/career/FoneNxt-QA",
+                "apply": "https://www.f1soft.com/career/F1Soft-SrF",
                 "jobDescription": [
                     {
-                        "Job Description": "F1Soft Group has been building an ecosystem of digital products and services to enable Digital Financial Transformation. From its inception, F1Soft has been committed to making easier, faster, and more convenient digital financial solutions that can help end users feel more empowered and connected. With innovation and technology at the core of everything we do, our products and services can help take businesses to the next level. We believe in providing effective and efficient digital financial solutions that enable access to a digital economy. Mid QA Engineers is responsible to oversee the quality assurance team. They are required to oversee all aspects of software and product testing.",
-                        "Responsibilities": ["Create detailed, comprehensive and well-structured test plans and test cases", "Estimate, prioritize, plan and co-ordinate testing activities.", "Perform thorough regression testing when bugs are resolved.", "Ensure quality of product and product documentation.", "Analyse product requirements and system requirements.", "Discover bugs and report in bug tracking tool.", "Work in Scrum/Kanban team environment to size and plan the requirements.", "Research on new technology and techniques for continuous improvement of the products.", "Mentoring and sharing the knowledge with the teammates.", "Leadership and Management skills."],
-                        "Requirements": ["Bachelor’s degree in Computer Science, Computer Engineering or related technical discipline", "2 to 3 years of experience as a QA Engineer in Manual and Automation Testing.", "Hands on experience on Java, Spring Framework, Angular is most."]
+                        "Job Description": "Senior Front-End Engineer will be responsible for dispersing front-end development tasks among the team. Explore and define processes related to front-end development to ensure best industry practices are followed. Mentor team members for their career development.",
+                        "Responsibilities": ["Oversee the development of the project and take charge of the latest processes and technology in order to build scalable, distributed, and fault-tolerant application systems.", "Apply usability principles and procedures as defined by UI/UX input.", "Lead other Front-End Engineers in building elegant and sophisticated user interfaces.", "Work with both other Front-End Engineers to determine the prioritization and estimation of new features and improvements.", "Assure project quality standards and requirements are met, and find and address performance issues prior to releasing the finished product to the backend team.", "Review code for efficient and reusable front-end infrastructure and components.", "Support reusable code, documenting common frontend components that save the business time in executing future projects.", "Support teams in understanding the needs of the consumer/user, availing insights that ultimately lead to an increased positive impact on consumer experience.", "Collaborates with designers, developers, and product owners in order to avail interactive and scalable sites/software. Collaborate with the UI/UX teams for the purpose of designing and implementing site/software experience.", "Work hand-in-hand with backend developers in building features and efficiencies for the realization of the anticipated end product.", "Identify and communicate front-end best practices to the team, enhancing efficiency and performance across the department.", "Researches and evaluates new methodologies and technologies that improve the quality, reliability, and performance of the design and development processes and team.", "Provide documentation to senior leadership and key stakeholders, continuously informing them on progress and important details of projects at key phases of site/software development.", "Mentor and guide Front-End Engineers through proper execution of their tasks.", "Assist in hiring of other Front-End Engineers.", "Take different roles, as required by the organization, like project lead, design lead, etc."],
+                        "Requirements": ["Bachelor’s degree in Computer Science, Computer Engineering or related technical discipline.", "5+ years of experience as a Front End Engineer/Developer (Angular).", "Highly proficient in markup languages, CSS, SASS, LESS.", "Familiarity with functional programming and Javascript libraries.", "Great proficiency in frameworks like Angular.", "Experience with browser testing and debugging.", "Knowledge about software development life cycle.", "Excellent sense of user interaction and design principles, design standards and visual aesthetics.", "Fluency in best practices for web-based information architecture and design, as well as strong knowledge of usability principles and techniques.", "Ability to provide clear instructions to associates and guide them.", "Demonstrated ability for mentorship and leadership.", "Experience in a fast-paced, iterative development environment using agile methodologies.", "Good written and verbal communication skills."]
+                    }
+                ]
+            },
+            {
+                "id": "23F1S04",
+                "no": "1",
+                "tags": [
+                    "Full-time"
+                ],
+                "position": "Senior Front-End Engineer (Angular)",
+                "issueDate": "2024-01-26 15:15",
+                "expDate": "2024-02-08",
+                "apply": "https://www.f1soft.com/career/F1Soft-UXD",
+                "jobDescription": [
+                    {
+                        "Job Description": "UI/UX designers are responsible for the design and functionality of a product's user interface and user experience. This includes gathering requirements from users, creating wireframes and prototypes, designing the visual elements of the product (such as graphic elements and navigation components), and testing the product to ensure it is user-friendly and intuitive. It is important for UI/UX designers to stay up to date with design trends and best practices in order to create innovative and effective designs that users will enjoy interacting with.",
+                        "Responsibilities": ["Investigating user experience design requirements for our suite of digital assets.", "Developing and conceptualizing a comprehensive UI/UX design strategy for the brand.", "Producing high-quality UX design solutions through wireframes, visual and graphic designs, flow diagrams, storyboards, site maps, and prototypes.", "Designing UI elements and tools such as navigation menus, search boxes, tabs, and widgets for our digital assets.", "Testing UI elements such as CTAs, banners, page layouts, page designs, page flows, and target links for landing pages.", "Test software to ensure responsiveness and efficiency.", "Troubleshoot, debug and upgrade software.", "Collaborating with the marketing team, and internal and external designers to ensure the creation and delivery of tailored experiences for the digital user.", "Providing advice and guidance on the implementation of UX research methodologies and testing activities in order to analyze and predict user behavior.", "Adhering to style standards on typography and graphic design.", "Mentoring and guiding the team members.", "Monitoring and measuring customer experience.", "Managing periodic reporting on the progress to the Engineering manager and director."],
+                        "Requirements": ["Minimum Bachelor’s Degree in Computer Engineering, Computer Science or any relevant field of study", "Prior 4+ Years of Experience as an UI/UX Designer", "Full stack and creative and innovative concept for product design", "Targeted Industry: Software Development."]
+                    }
+                ]
+            },
+            {
+                "id": "23F1S05",
+                "no": "1",
+                "tags": [
+                    "Intership"
+                ],
+                "position": "Internship - Next Tech Cohort",
+                "issueDate": "2024-01-26 14:30",
+                "expDate": "2024-02-08",
+                "apply": "https://www.f1soft.com/career/F1Soft-UXD",
+                "jobDescription": [
+                    {
+                        "Job Description": "Are you a tech enthusiast ready to kickstart your career journey? F1Soft Group invites students and recent graduates to join our Next Tech Cohort Internship Program! ",
+                        "Responsibilities": ["Why Intern with Us? ", "Designated Mentorship: Two interns will have a dedicated mentor, offering guidance and support throughout the internship journey.", "Tailored Opportunities: Choose your preferred tech stack and dive into internship experiences that align with your interests and skills.", "Structured Learning: Our cohort internship is thoughtfully organized as a learning module, ensuring a well-structured and intentional educational experience.", "Placement Opportunities: Stand-out, and deserving candidates may have the chance for exciting placement opportunities within the F1Soft Group."],
+                        "Requirements": "Ready to embark on a transformative learning adventure with F1Soft Group? Apply now and be part of a dynamic team shaping the future of technology! "
                     }
                 ]
             }
