@@ -112,9 +112,9 @@ nav {
         width: 100%;
         height: calc(100vh - 58px);
         margin-top: 58px;
-        background-color:transparent;
-        backdrop-filter: blur(3.6rem);
-        z-index: 2;
+        background-color: transparent;
+        -webkit-backdrop-filter: blur(3.6rem);
+        z-index: 1;
     }
 
     .nav_items {
