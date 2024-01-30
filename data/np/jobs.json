@@ -6063,6 +6063,32 @@
                         ]
                     }
                 ]
+            },
+            {
+                "id": "23FP05",
+                "no": "1",
+                "tags": [
+                    "Full-time"
+                ],
+                "position": "QA Engineer",
+                "issueDate": "2024-01-30 11:45",
+                "expDate": "2024-02-07",
+                "apply": "https://fonepay.com/career/QA%20Engineer",
+                "jobDescription": [
+                    {
+                        "Responsibilities": ["Ensure quality of product and product documentation.", "Creating detailed, comprehensive and well-structured test cases.", "Estimating, prioritizing, planning and coordinating quality testing activities.", "Review requirements, specifications and technical design documents to provide timely and meaningful feedback. ", "Design, develop and execute automation scripts using open source tools.", "Identify, record, track bugs and issues with proper reports.", "Design and execution of QA process in collaboration with the Delivery team, Project Managers and Engineering Team.", "Research on new technology and techniques for continuous improvement of the product quality."],
+                        "Qualifications": ["Education: Masters or Bachelor’s degree in Computer Engineering, or related technical discipline.", "Prior Years of Experience required: 3 years."],
+                        "Required Technical Skills": ["Knowledge of Load and stress testing", "Knowledge of REST APIs along with experience of using tools like Postman, JMeter.", "Knowledge of Security Metrics ,Security Testing, Performance Testing and PCI compliance.", "Work in Scrum/ Kanban team and proficient with using JIRA or other Project Management Tools for Project Planning and defect management.", "Basic knowledge in SQL", "Knowledge of automation testing with open source tools and frameworks like selenium , robot framework, karate", "Understanding of Continuous Integration/Continuous Deployment (CI/CD) pipelines and integration of testing within these pipelines (e.g., Jenkins, GitLab CI) is plus", "Certificate in QA will be plus point like CSD, ISTQB etc."],
+                        "Required Behavioral Skills": ["Strong analytical skills.", "Proficient in verbal and written English ", "Proper Communication Skills ", "Problem Solving and Critical thinking."],
+                        "Benefits": [
+                            "A stellar opportunity to work with the rising company.",
+                            "The amazing and passionate young team, beautiful office space.",
+                            "The trust of the biggest FinTech company.",
+                            "One-of-a-kind company culture and growth opportunities to accelerate your career progression.",
+                            "Company-provided lunch facility."
+                        ]
+                    }
+                ]
             }
         ]
     },
