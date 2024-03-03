@@ -2145,6 +2145,23 @@
                         "Job Specification": ["Minimum Bachelor’s degree in any discipline.", "Excellent communication skills both in English and Nepali.", "Team player, polite and pleasing personality.", "Should be able to work under pressure.", "Should possess personal laptop."]
                     }
                 ]
+            },
+            {
+                "id": "23WLC015",
+                "no": "2",
+                "tags": [
+                    "Full-time"
+                ],
+                "position": "HR Intern",
+                "issueDate": "2024-03-03 19:30",
+                "expDate": "2024-03-10",
+                "apply": "https://worldlink.com.np/career/hr-intern/",
+                "jobDescription": [
+                    {
+                        "Job Description": ["Engage in daily HR Operations tasks to ensure seamless workflow.", "Engage in creating eye-catching visuals for our online platforms, including posters, banners, and graphics.", "Oversee attendance management, ensuring accurate recording of staff attendance.", "Examine and validate overtime claims, facilitating clearance processes for departing staff.", "Prepare and disseminate various official staff-related documents.", "Maintain HR files and databases, conducting audits to uphold proper employee documentation standards."],                            
+                        "Job Specification": ["Sound Knowledge in MS Office is preferred.", "Knowledge of Photoshop & Canva is preferred.", "Familiarity with Human Resources Information Systems (HRIS) is preferred.", "Basic knowledge of the Labor Act of Nepal.", "Freshers are encouraged to apply."]
+                    }
+                ]
             }
         ]
     },
